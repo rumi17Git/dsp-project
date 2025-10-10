@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1790-NESIO,Female,0,No,No,13.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,20.4,No
+1550-EENBN,Female,0,No,No,31.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,104.35,No
+5539-TMZLF,Male,1,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.75,Yes
+4323-SADQS,Male,0,Yes,Yes,7.0,No,No phone service,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,34.5,Yes
+4446-BZKHU,Male,0,Yes,No,61.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.55,Yes
+5202-IVJNU,Female,0,No,Yes,39.0,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),30.1,Yes
+5976-JCJRH,Male,0,Yes,No,10.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,Yes

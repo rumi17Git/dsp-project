@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5188-HGMLP,Male,1,Yes,No,54.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),74.0,No
+0665-XHDJU,Male,0,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Electronic check,99.4,No
+6521-YYTYI,Male,0,No,Yes,1.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.3,Yes
+8878-HMWBV,Male,0,No,No,3.0,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,49.15,Yes
+8265-HKSOW,Female,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),107.45,No
+3544-FBCAS,Female,0,Yes,Yes,72.0,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),83.6,No
+5331-RGMTT,Male,1,Yes,No,54.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.05,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1447-PJGGA,Female,0,No,No,57.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,95.25,Yes
+8565-CLBZW,Male,0,No,No,24.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,89.85,Yes
+9139-WQQDY,Female,0,Yes,Yes,49.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Mailed check,100.45,Yes
+0224-HJAPT,Male,0,No,No,5.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,47.15,Yes
+8086-OVPWV,Male,0,No,No,2.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.2,Yes
+9430-FRQOC,Female,0,No,Yes,4.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,87.1,Yes
+7639-OPLNG,Male,0,Yes,Yes,70.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),79.25,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8622-ZLFKO,Female,0,Yes,No,6.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90.75,No
+1596-BBVTG,Male,0,No,No,35.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),75.35,Yes
+6188-UXBBR,Female,0,Yes,No,38.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.25,No
+2333-KWEWW,Male,0,No,No,18.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.05,No
+5702-SKUOB,Female,0,Yes,No,4.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.6,No
+1134-YWTYF,Male,0,Yes,No,27.0,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,53.8,No
+6061-GWWAV,Male,0,No,Yes,41.0,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,70.2,No

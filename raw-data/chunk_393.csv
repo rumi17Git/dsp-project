@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5353-WILCI,Female,0,No,No,28.0,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,56.05,No
+0709-TVGUR,Female,1,No,No,9.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.55,Yes
+0058-EVZWM,Female,0,Yes,No,55.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89.8,No
+6023-YEBUP,Male,0,No,No,3.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.95,Yes
+7209-JCUDS,Male,0,No,No,10.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.9,Yes
+7009-PCARS,Male,0,No,Yes,55.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.1,No
+0519-DRGTI,Female,0,Yes,Yes,20.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.35,No

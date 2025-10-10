@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5149-CUZUJ,Male,0,Yes,Yes,28.0,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),92.9,No
+0942-KOWSM,Female,0,Yes,Yes,30.0,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),80.8,No
+4237-CLSMM,Male,0,Yes,No,2.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.0,No
+1452-VOQCH,Male,0,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.1,No
+4719-UMSIY,Male,0,No,Yes,6.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.65,No
+6614-VBEGU,Female,0,Yes,No,24.0,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),69.45,No
+0880-TKATG,Male,0,Yes,Yes,4.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101.15,Yes

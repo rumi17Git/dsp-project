@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2400-FEQME,Male,0,Yes,Yes,55.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.5,No
+3190-XFANI,Male,0,No,Yes,49.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),100.6,Yes
+7551-DACSP,Male,0,Yes,Yes,6.0,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,55.3,Yes
+4957-SREEC,Male,0,Yes,Yes,70.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.35,No
+7235-NXZCP,Male,1,No,No,2.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.85,Yes
+0230-UBYPQ,Male,1,Yes,No,63.0,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),36.1,No
+4923-ADWXJ,Female,0,No,No,25.0,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65.8,No

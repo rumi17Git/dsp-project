@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6959-GQEGV,Male,0,No,No,45.0,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,75.95,No
+3173-WSSUE,Female,0,Yes,Yes,71.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.7,No
+1265-HVPZB,Male,0,Yes,No,59.0,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Credit card (automatic),66.4,No
+4115-UMJFQ,Male,0,No,No,69.0,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),35.75,No
+7369-TRPFD,Male,0,No,No,19.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.8,No
+1098-KFQEC,Female,0,Yes,Yes,55.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.4,No
+7190-XHTWJ,Female,0,No,No,38.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.3,No

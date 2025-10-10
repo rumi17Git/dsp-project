@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1017-FBQMM,Female,0,Yes,Yes,62.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),106.05,No
+3001-CBHLQ,Male,1,Yes,No,32.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.9,Yes
+1985-MBRYP,Female,0,No,No,43.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),19.65,No
+6158-DWPZT,Male,0,Yes,No,9.0,No,No phone service,DSL,No,No,No,No,No,No,One year,No,Bank transfer (automatic),24.1,Yes
+9372-TXXPS,Female,0,Yes,No,60.0,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),59.85,No
+3259-QMXUN,Male,0,Yes,No,58.0,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,86.1,No
+1015-JPFYW,Male,0,No,Yes,7.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.45,No

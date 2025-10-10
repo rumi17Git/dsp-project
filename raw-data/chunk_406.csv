@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7923-IYJWY,Male,1,No,No,67.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116.1,No
+3170-GWYKC,Female,0,No,No,60.0,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104.95,No
+5696-QURRL,Male,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.05,Yes
+7409-KIUTL,Female,1,No,Yes,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.0,Yes
+9830-ECLEN,Male,0,Yes,Yes,58.0,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,50.0,No
+1732-VHUBQ,Female,1,Yes,Yes,47.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70.55,Yes
+0495-RVCBF,Female,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.7,Yes

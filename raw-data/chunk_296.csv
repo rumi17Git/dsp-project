@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8984-HPEMB,Female,0,No,No,71.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,118.65,No
+4349-GFQHK,Male,0,No,No,1.0,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,54.35,Yes
+4139-DETXS,Female,0,Yes,Yes,72.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),64.45,No
+9779-DPNEJ,Female,0,Yes,Yes,22.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.15,No
+9805-FILKB,Male,0,Yes,Yes,46.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),20.2,No
+5793-YOLJN,Female,0,Yes,Yes,55.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,21.0,No
+0673-IGUQO,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.45,No

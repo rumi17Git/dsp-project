@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1237-WIYYZ,Female,0,No,No,18.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.55,No
+1987-AUELQ,Female,0,Yes,No,71.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.05,No
+7852-LECYP,Male,1,Yes,No,13.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),93.8,No
+4430-UZIPO,Male,0,No,No,3.0,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,36.85,Yes
+4822-LPTYJ,Male,0,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),103.75,No
+8165-CBKXO,Male,0,Yes,Yes,66.0,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),56.75,No
+6527-PZFPV,Male,0,Yes,Yes,24.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.8,No

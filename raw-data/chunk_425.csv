@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4176-RELJR,Male,1,No,No,67.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.1,No
+6214-EDAKZ,Female,0,Yes,Yes,22.0,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,55.15,Yes
+5199-FPUSP,Male,0,No,Yes,33.0,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),34.05,No
+6377-KSLXC,Male,0,No,No,5.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.95,No
+1796-JANOW,Female,0,No,No,2.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.95,No
+0238-WHBIQ,Male,0,Yes,Yes,72.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.7,No
+8735-NBLWT,Male,0,No,Yes,9.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.4,No

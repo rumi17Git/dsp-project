@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1000-AJSLD,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.1,Yes
+9696-RMYBA,Male,0,No,No,5.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,80.1,No
+8690-UPCZI,Male,0,Yes,Yes,29.0,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,One year,No,Bank transfer (automatic),69.05,No
+1062-LHZOD,Male,0,Yes,Yes,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.9,Yes
+9770-LXDBK,Female,0,No,No,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.4,No
+4086-WITJG,Male,0,Yes,Yes,71.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.7,No
+8344-WFMFH,Male,0,No,Yes,9.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,50.1,No

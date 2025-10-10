@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2039-JONDJ,Male,0,No,No,27.0,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Bank transfer (automatic),55.45,No
+7217-JYHOQ,Male,0,Yes,Yes,24.0,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),70.3,No
+6695-FRVEC,Male,0,Yes,Yes,67.0,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),60.4,No
+4547-LYTDD,Female,0,No,No,16.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,72.65,Yes
+9894-QMIMJ,Female,0,No,No,23.0,Yes,No,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),55.8,No
+8069-YQQAJ,Male,0,No,No,14.0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,31.1,No
+6770-XUAGN,Female,0,Yes,Yes,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,21.0,Yes

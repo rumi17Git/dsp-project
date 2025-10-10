@@ -1,0 +1,9 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8865-TNMNX,Male,0,Yes,Yes,ten,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,49.55,No
+9489-DEDVP,Female,0,Yes,Yes,ten,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),69.2,No
+9867-JCZSP,Female,0,Yes,Yes,ten,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.75,No
+4671-VJLCL,Female,0,No,No,ten,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),79.85,No
+4080-IIARD,Female,0,Yes,No,ten,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,76.2,No
+3714-NTNFO,Female,0,No,No,ten,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.5,No
+5948-UJZLF,Male,0,No,No,2.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,49.25,No
+7760-OYPDY,Female,0,No,No,2.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.65,Yes

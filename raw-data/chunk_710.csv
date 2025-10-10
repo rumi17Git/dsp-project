@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1261-FWTTE,Male,1,No,No,23.0,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),34.65,No
+3528-HFRIQ,Male,1,Yes,No,71.0,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),52.3,No
+0708-SJDIS,Female,0,No,No,34.0,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,65.0,No
+4140-WJAWW,Female,0,No,No,5.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),19.85,Yes
+2073-QBVBI,Female,0,Yes,No,41.0,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,No,Mailed check,35.45,No
+6928-ONTRW,Female,0,Yes,Yes,72.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.7,No
+3320-VEOYC,Male,1,No,No,14.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.6,No

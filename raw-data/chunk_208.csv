@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1728-CXQBE,Male,1,Yes,No,64.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,94.25,No
+7041-TXQJH,Female,0,No,No,37.0,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),40.2,No
+5014-GSOUQ,Male,0,No,No,13.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.95,No
+5724-BIDBU,Male,0,Yes,No,49.0,Yes,Yes,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,55.35,No
+0481-SUMCB,Female,1,No,No,45.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),102.15,No
+1769-GRUIK,Female,0,No,No,18.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.1,No
+5240-IJOQT,Male,1,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.7,Yes

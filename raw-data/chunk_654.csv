@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0311-QYWSS,Female,0,No,No,6.0,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.45,No
+8705-DWKTI,Male,0,No,No,52.0,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),83.8,No
+8755-IWJHN,Male,1,Yes,No,69.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95.35,No
+0325-XBFAC,Male,0,No,No,8.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.7,Yes
+4480-QQRHC,Female,1,No,No,8.0,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.05,No
+0929-PECLO,Female,1,No,No,63.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89.6,No
+3680-CTHUH,Male,0,No,No,60.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),116.6,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1599-MMYRQ,Male,0,Yes,Yes,62.0,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),81.45,No
+8821-KVZKQ,Female,0,Yes,Yes,70.0,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),58.4,No
+1496-GGSUK,Female,1,No,No,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.7,Yes
+6434-TTGJP,Male,0,Yes,Yes,10.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),53.7,No
+0042-JVWOJ,Male,0,No,No,26.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),19.6,No
+0130-SXOUN,Male,0,No,No,66.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),89.4,No
+2575-GFSOE,Female,0,Yes,Yes,7.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.0,Yes

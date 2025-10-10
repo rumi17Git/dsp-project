@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1707-HABPF,Female,1,No,No,46.0,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),91.3,No
+1660-HSOOQ,Male,0,No,No,1.0,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,49.65,Yes
+7253-UVNDW,Female,0,No,No,46.0,Yes,No,DSL,No,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),54.35,Yes
+0487-VVUVK,Male,0,Yes,Yes,25.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.15,No
+7228-OMTPN,Male,0,No,No,4.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,88.45,Yes
+5063-IUOKK,Male,0,No,No,13.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.75,No
+4508-OEBEY,Male,0,Yes,No,31.0,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),75.5,No

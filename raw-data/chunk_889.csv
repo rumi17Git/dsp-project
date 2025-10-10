@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5813-UECBU,Male,1,No,No,33.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),83.85,Yes
+0328-GRPMV,Female,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.1,Yes
+9746-UGFAC,Female,0,No,No,22.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.85,No
+2946-KIQSP,Female,0,No,No,35.0,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,33.45,No
+0625-AFOHS,Female,0,Yes,Yes,29.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.2,No
+6726-WEXXK,Male,1,Yes,No,27.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,85.9,No
+4636-OLWOE,Male,0,No,Yes,54.0,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,61.0,No

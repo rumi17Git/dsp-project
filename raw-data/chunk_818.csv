@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3407-JMJQQ,Female,0,Yes,Yes,71.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),109.0,No
+6252-DFGTK,Female,0,Yes,No,37.0,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,One year,No,Credit card (automatic),68.1,No
+1539-LNKHM,Female,0,No,No,12.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.4,No
+8645-KOMJQ,Male,0,Yes,Yes,69.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),81.95,No
+0289-IVARM,Female,0,No,No,35.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,60.55,No
+9761-XUJWD,Male,0,No,No,5.0,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65.6,No
+4057-FKCZK,Male,0,Yes,Yes,58.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Two year,No,Bank transfer (automatic),82.5,No

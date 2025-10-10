@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8659-HDIYE,Female,1,No,No,64.0,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),74.65,No
+3658-KIBGF,Female,0,No,No,1.0,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,54.9,Yes
+3474-BAFSJ,Male,0,Yes,No,57.0,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),57.5,No
+5519-YLDGW,Female,0,Yes,No,21.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.9,Yes
+3865-ZFZIB,Male,0,No,No,19.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.65,No
+1855-AGAWH,Male,0,Yes,No,31.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,93.8,No
+7109-CQYUZ,Male,0,No,No,52.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,89.25,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3898-GUYTS,Female,1,No,No,45.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,97.05,No
+0930-EHUZA,Female,0,No,No,36.0,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,76.35,No
+6413-XKKPU,Male,0,Yes,Yes,17.0,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.4,Yes
+9975-SKRNR,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.9,No
+3703-KBKZP,Male,1,No,No,16.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.45,No
+1449-XQEMT,Male,0,No,No,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.8,Yes
+2626-URJFX,Male,0,Yes,Yes,4.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.9,Yes

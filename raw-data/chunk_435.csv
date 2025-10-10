@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5751-USDBL,Male,0,Yes,Yes,46.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,81.0,No
+5680-LQOGP,Female,0,No,No,68.0,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82.45,No
+2386-LAHRK,Male,0,No,No,1.0,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,53.5,Yes
+8189-DUKMV,Female,0,Yes,No,4.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.5,No
+6032-IGALN,Female,0,No,No,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.1,Yes
+9931-DCEZH,Male,0,No,Yes,28.0,Yes,No,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),54.4,No
+1898-JSNDC,Female,0,No,No,39.0,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),58.6,No

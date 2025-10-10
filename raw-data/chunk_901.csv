@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3407-QGWLG,Male,0,No,Yes,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.05,No
+1842-EZJMK,Male,0,Yes,Yes,50.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,103.7,Yes
+2347-WKKAE,Male,0,Yes,No,42.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,94.4,No
+8735-DCXNF,Male,0,Yes,No,10.0,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),54.95,No
+3214-IYUUQ,Female,0,Yes,No,61.0,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),93.7,No
+1936-UAFEH,Female,0,No,No,68.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),110.25,No
+3587-PMCOY,Male,0,No,No,10.0,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,98.9,No

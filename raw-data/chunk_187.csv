@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7722-VJRQD,Male,0,Yes,Yes,72.0,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60.95,No
+7073-QETQY,Male,0,Yes,Yes,66.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,20.35,No
+9415-DPEWS,Female,0,No,No,18.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,88.35,Yes
+5624-RYAMH,Female,0,No,No,9.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,19.5,No
+0196-JTUQI,Female,0,No,No,9.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.2,No
+7130-YXBRO,Male,0,Yes,No,48.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),111.45,No
+9272-LSVYH,Male,0,No,No,10.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70.15,No

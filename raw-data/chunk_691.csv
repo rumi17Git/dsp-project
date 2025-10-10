@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1215-EXRMO,Male,0,Yes,No,50.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.55,No
+2305-MRGLV,Male,0,Yes,No,28.0,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),76.55,No
+8404-VIOMB,Female,0,No,No,66.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),62.5,No
+5233-GEEAX,Male,1,No,No,8.0,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,29.4,Yes
+2359-KLTEK,Female,0,Yes,Yes,41.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94.9,No
+5304-EFJLP,Male,1,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),111.65,No
+2673-ZALNP,Female,0,No,No,7.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.9,No

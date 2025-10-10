@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7688-AWMDX,Male,0,Yes,No,71.0,Yes,No,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),54.5,No
+2842-BCQGE,Male,0,No,No,43.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.35,No
+7244-QWYHG,Male,0,Yes,No,50.0,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),44.45,No
+5899-MQZZL,Female,0,No,No,13.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75.0,Yes
+6849-OYAMU,Male,0,Yes,Yes,19.0,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),100.0,Yes
+5312-UXESG,Female,0,No,No,41.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),98.05,No
+9488-HGMJH,Female,1,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.15,Yes

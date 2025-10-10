@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5702-KVQRD,Male,0,Yes,No,71.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,82.55,No
+0083-PIVIK,Male,0,No,No,64.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Electronic check,81.25,No
+9210-IAHGH,Female,0,No,No,7.0,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),70.75,Yes
+6169-PGNCD,Female,0,No,No,57.0,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),74.3,No
+0023-XUOPT,Female,0,Yes,No,13.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,94.1,Yes
+4592-IWTJI,Female,0,Yes,Yes,3.0,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),29.7,Yes
+4909-JOUPP,Male,1,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),109.7,No

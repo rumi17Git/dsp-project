@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3936-QQFLL,Male,0,No,No,2.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.75,No
+2589-AYCRP,Female,0,No,No,50.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.75,No
+4067-HLYQI,Female,0,No,No,33.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),70.4,No
+5124-EOGYE,Male,0,No,No,31.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.45,No
+5057-RKGLH,Female,0,Yes,Yes,9.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.35,No
+0292-WEGCH,Female,0,Yes,Yes,54.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,86.2,No
+8910-ICHIU,Female,0,No,No,46.0,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),95.65,No

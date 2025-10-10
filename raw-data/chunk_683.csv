@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3339-EAQNV,Male,1,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),97.25,No
+0921-OHLVP,Male,0,No,No,22.0,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,83.05,No
+3389-YGYAI,Female,1,No,No,8.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.5,Yes
+9560-ARGQJ,Female,0,No,Yes,16.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.0,Yes
+8350-NYMVI,Female,0,No,No,39.0,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),41.1,No
+1600-DILPE,Female,0,No,No,12.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45.0,No
+0536-ESJEP,Male,0,Yes,No,54.0,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),74.55,No

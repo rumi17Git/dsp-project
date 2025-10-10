@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8295-KMENE,Female,0,Yes,Yes,59.0,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Mailed check,76.45,No
+6738-ISCBM,Male,0,No,No,44.0,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,54.0,No
+9821-BESNZ,Male,0,No,No,66.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,104.25,No
+3678-MNGZX,Male,0,Yes,Yes,68.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.95,No
+1335-NTIUC,Male,0,No,No,9.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.95,No
+2916-BQZLN,Male,0,No,No,19.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,84.75,No
+4558-CGYCZ,Male,0,No,No,4.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.75,No

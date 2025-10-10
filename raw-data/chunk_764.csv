@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8124-NZVGJ,Female,0,No,No,6.0,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,49.25,No
+2162-FRZAA,Male,0,Yes,Yes,63.0,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),39.35,No
+5376-DEQCP,Female,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.6,Yes
+5118-MUEYH,Female,0,Yes,No,48.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),105.1,No
+9095-HFAFX,Female,0,No,No,5.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),81.0,Yes
+5627-TVBPP,Female,0,No,Yes,35.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.1,No
+2379-ENZGV,Male,0,No,No,6.0,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.85,Yes

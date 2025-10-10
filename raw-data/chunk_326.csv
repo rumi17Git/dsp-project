@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3097-PYWXL,Female,0,Yes,Yes,4.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,19.95,No
+2266-SJNAT,Female,0,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),109.15,No
+0869-PAPRP,Female,1,Yes,No,26.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85.7,No
+4238-JSSWH,Female,1,Yes,No,35.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),102.05,No
+2972-YDYUW,Female,0,No,No,57.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,One year,No,Electronic check,94.7,No
+1104-FEJAM,Male,0,Yes,Yes,28.0,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,64.4,No
+2809-ILCYT,Female,0,Yes,No,25.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,26.8,No

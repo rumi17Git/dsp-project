@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3999-QGRJH,Male,1,No,No,8.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.7,Yes
+1699-UOTXU,Male,0,No,No,60.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,61.4,No
+2454-RPBRZ,Female,1,Yes,No,12.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,98.1,Yes
+0635-WKOLD,Male,0,Yes,No,40.0,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),70.75,No
+5993-JSUWV,Female,0,No,No,66.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),61.15,No
+4518-FZBSX,Male,0,Yes,Yes,42.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.25,No
+5387-ASZNZ,Female,1,No,No,66.0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),63.85,No

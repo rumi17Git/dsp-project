@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7599-FKVXZ,Male,0,Yes,No,42.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),106.15,Yes
+3982-DQLUS,Male,1,Yes,Yes,65.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,85.75,No
+8610-ZIKJJ,Female,0,Yes,Yes,2.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.3,No
+3756-VNWDH,Male,1,Yes,No,65.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,100.75,No
+7801-KICAO,Female,0,No,No,18.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.15,No
+7673-LPRNY,Female,0,No,No,23.0,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,78.55,No
+8229-TNIQA,Female,0,No,No,4.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.3,Yes

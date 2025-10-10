@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8591-TKMZH,Male,0,Yes,Yes,59.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,111.1,No
+0734-OXWBT,Male,0,No,Yes,3.0,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,70.7,No
+4282-ACRXS,Male,1,Yes,No,38.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.85,No
+0365-TRTPY,Female,0,No,No,37.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),91.2,No
+7349-ALMUX,Male,0,No,No,37.0,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),65.6,No
+9381-NDKME,Female,1,Yes,No,24.0,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),40.65,Yes
+6502-KUGLL,Female,0,Yes,Yes,14.0,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),59.45,No

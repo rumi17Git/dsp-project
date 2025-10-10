@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4749-VFKVB,Female,0,No,No,1.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.1,Yes
+9640-ZSLDC,Female,0,Yes,Yes,53.0,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,No,Credit card (automatic),60.6,No
+4231-LZUYM,Female,0,Yes,No,72.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.65,No
+7598-UAASY,Male,0,Yes,No,2.0,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76.4,Yes
+7938-OUHIO,Male,0,No,No,3.0,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,98.7,Yes
+8510-AWCXC,Female,1,No,No,13.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.8,Yes
+6128-AQBMT,Male,1,Yes,No,41.0,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,53.95,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2720-FVBQP,Female,0,Yes,Yes,6.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),48.95,No
+9906-NHHVC,Female,1,No,No,65.0,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),53.5,No
+4522-XRWWI,Male,0,Yes,No,42.0,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card (automatic),80.45,No
+3766-EJLFL,Female,0,Yes,Yes,68.0,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109.05,No
+5939-SXWHM,Male,0,Yes,Yes,48.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),26.3,No
+8152-UOBNY,Female,1,No,No,50.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,106.8,No
+7351-KYHQH,Female,1,No,No,7.0,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,64.95,No

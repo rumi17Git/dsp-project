@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2013-SGDXK,Female,0,No,No,1.0,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,84.3,Yes
+6368-NWMCE,Female,0,No,No,38.0,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),68.15,No
+3633-CDBUW,Male,0,No,Yes,17.0,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,80.85,No
+0707-HOVVN,Female,1,No,No,70.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),75.5,No
+8580-QVLOC,Female,1,Yes,Yes,72.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),92.45,Yes
+3956-MGXOG,Female,0,No,No,28.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.6,No
+9274-UARKJ,Female,0,No,No,15.0,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),83.2,No

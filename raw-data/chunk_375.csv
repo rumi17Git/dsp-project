@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6849-WLEYG,Male,0,No,Yes,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.75,Yes
+4659-NZRUF,Female,0,No,No,19.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,95.15,Yes
+4531-AUZNK,Female,0,Yes,Yes,51.0,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,95.15,No
+4191-XOVOM,Male,0,No,No,63.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,105.4,No
+2150-OEGBV,Male,0,No,No,27.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.1,No
+8429-XIBUM,Male,0,No,No,22.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101.35,Yes
+1855-CFULU,Female,1,No,No,4.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.05,No

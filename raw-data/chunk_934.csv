@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2453-SAFNS,Female,1,No,No,54.0,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,No,Mailed check,72.1,No
+9558-IHEZX,Female,0,No,No,71.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),106.75,No
+9617-UDPEU,Female,0,No,No,22.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,19.25,No
+6340-DACFT,Female,0,Yes,Yes,50.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.55,No
+4955-VCWBI,Female,0,Yes,Yes,43.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.0,No
+6813-GZQCG,Female,0,Yes,Yes,45.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),24.65,No
+7426-GSWPO,Male,1,No,No,64.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.5,No

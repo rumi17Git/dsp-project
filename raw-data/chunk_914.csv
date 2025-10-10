@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5084-OOVCJ,Female,0,Yes,Yes,17.0,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),55.35,No
+0254-WWRKD,Female,0,Yes,Yes,67.0,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Credit card (automatic),50.55,No
+7727-SHVZV,Female,0,No,No,9.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),19.5,No
+6302-JGYRJ,Male,0,No,Yes,31.0,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Mailed check,79.45,Yes
+5339-PXDVH,Male,0,No,No,4.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,90.65,No
+2205-LPVGL,Male,1,Yes,Yes,58.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),89.85,No
+8782-NUUOL,Male,0,No,No,60.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,79.0,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5447-WZAFP,Female,0,No,No,53.0,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,100.3,No
+5110-CHOPY,Female,0,No,No,60.0,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,53.6,No
+5445-UTODQ,Female,0,Yes,No,7.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.1,Yes
+4425-OWHWB,Female,0,No,No,20.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),19.35,No
+7892-QVYKW,Female,0,Yes,Yes,23.0,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85.6,No
+9675-ICXCT,Male,0,Yes,Yes,72.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,80.8,No
+1024-VRZHF,Male,0,Yes,No,11.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.95,Yes

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3644-QXEHN,Male,0,Yes,Yes,13.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,97.0,No
+2911-IJORQ,Male,0,No,No,37.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),90.6,No
+5921-NGYRH,Male,0,Yes,No,64.0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,73.55,No
+2100-BDNSN,Female,0,Yes,No,5.0,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),67.95,Yes
+5998-DZLYR,Female,0,Yes,No,61.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),94.35,No
+0488-GSLFR,Female,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.5,Yes
+9318-NKNFC,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,18.85,Yes

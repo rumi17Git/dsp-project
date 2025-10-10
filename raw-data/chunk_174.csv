@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4741-WWJQZ,Female,0,Yes,No,2.0,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,80.15,No
+6625-UTXEW,Female,0,Yes,No,12.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,51.25,No
+6818-WOBHJ,Female,1,Yes,No,68.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89.6,Yes
+6244-BESBM,Male,0,Yes,Yes,69.0,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),95.2,No
+1004-NOZNR,Male,1,No,Yes,56.0,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Credit card (automatic),94.8,No
+1251-STYSZ,Female,1,No,No,4.0,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.25,No
+2612-PHGOX,Male,0,Yes,No,64.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),76.1,No

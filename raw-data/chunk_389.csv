@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1229-RCALF,Female,0,Yes,No,64.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,115.0,No
+3572-UOLYZ,Female,0,No,Yes,46.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),84.8,No
+1429-UYJSV,Female,0,No,No,12.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.7,No
+5577-OTWWW,Female,0,No,No,15.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),19.75,Yes
+6100-QQHEB,Male,0,Yes,Yes,17.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.55,Yes
+6366-XIVKZ,Female,0,Yes,Yes,13.0,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,63.15,No
+3470-OBUET,Female,0,Yes,Yes,67.0,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),74.0,No

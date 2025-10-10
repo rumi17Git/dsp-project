@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+9129-UXERG,Female,1,No,No,18.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),103.6,No
+3635-JBPSG,Female,0,No,No,15.0,No,No phone service,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Mailed check,38.8,No
+7964-ZRKKG,Male,0,Yes,No,67.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),88.4,No
+5868-YWPDW,Male,1,Yes,No,6.0,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.2,Yes
+6229-LSCKB,Male,1,No,No,6.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.7,No
+2025-JKFWI,Male,0,No,No,13.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,99.0,Yes
+4078-SAYYN,Female,0,No,No,11.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.75,Yes

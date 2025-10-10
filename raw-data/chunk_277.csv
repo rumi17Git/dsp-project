@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3190-FZATL,Male,0,No,Yes,14.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.95,No
+7336-RLLRH,Male,0,Yes,No,27.0,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Mailed check,80.85,No
+4373-MAVJG,Female,0,Yes,Yes,14.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),90.9,Yes
+8901-HJXTF,Female,0,Yes,Yes,12.0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,29.2,Yes
+7710-JSYOA,Female,0,Yes,Yes,69.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),93.3,No
+5419-KLXBN,Female,0,Yes,Yes,25.0,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89.15,Yes
+3424-NMNBO,Male,1,Yes,No,58.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,108.85,Yes

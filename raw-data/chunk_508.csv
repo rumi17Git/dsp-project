@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7925-PNRGI,Female,0,Yes,Yes,45.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,81.3,No
+8623-TMRBY,Male,1,Yes,Yes,51.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,84.2,Yes
+1552-CZCLL,Female,0,Yes,Yes,55.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),20.0,No
+3038-PQIUY,Female,0,No,No,38.0,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),66.15,No
+1501-SGHBW,Male,0,No,No,2.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,45.85,Yes
+9313-CDOGY,Male,0,Yes,Yes,38.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.6,No
+8148-BPLZQ,Male,0,No,No,34.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,49.8,No

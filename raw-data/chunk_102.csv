@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0030-FNXPP,Female,0,No,No,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.85,No
+2189-WWOEW,Female,0,No,Yes,15.0,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),85.9,Yes
+5684-FJVYR,Female,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),90.35,No
+4013-GUXND,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.8,No
+1894-IGFSG,Female,0,No,No,22.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,89.25,Yes
+7379-POKDZ,Male,0,Yes,No,3.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,Yes
+1266-NZYUI,Female,0,Yes,Yes,72.0,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),66.85,No

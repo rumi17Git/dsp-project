@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1009-IRMNA,Female,0,No,No,7.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.0,Yes
+3003-CMDUU,Female,0,Yes,No,25.0,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95.15,No
+5016-IBERQ,Male,0,Yes,No,23.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,84.25,No
+6797-UCJHZ,Female,1,Yes,No,66.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),104.6,No
+2469-DTSGX,Female,1,No,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,111.65,No
+4554-YGZIH,Male,1,Yes,No,49.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),90.05,Yes
+5099-BAILX,Male,1,Yes,Yes,43.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),110.75,Yes

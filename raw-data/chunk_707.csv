@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7740-KKCXF,Male,0,Yes,No,51.0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),30.05,No
+5360-XGYAZ,Male,0,Yes,Yes,72.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),65.65,No
+9692-TUSXH,Female,0,No,No,18.0,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.05,Yes
+7912-SYRQT,Female,0,No,No,7.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.1,Yes
+3557-HTYWR,Female,0,No,No,47.0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Two year,No,Mailed check,74.05,No
+4816-JBHOV,Male,1,No,No,2.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.7,Yes
+8920-NAVAY,Male,1,No,No,62.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),110.75,No

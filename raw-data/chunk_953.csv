@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7315-WYOAW,Male,0,No,No,13.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,100.75,No
+1173-XZPYF,Female,0,No,No,11.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.2,No
+9850-OWRHQ,Female,0,Yes,No,3.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74.1,Yes
+3768-NLUBH,Male,1,Yes,No,57.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,100.6,Yes
+8676-TRMJS,Male,0,No,No,3.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,75.0,Yes
+2509-TFPJU,Male,0,Yes,No,72.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.75,No
+9530-GRMJG,Male,0,Yes,Yes,70.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,84.1,No

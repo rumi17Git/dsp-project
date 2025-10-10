@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0530-IJVDB,Male,0,No,Yes,70.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,114.6,No
+0508-SQWPL,Female,0,Yes,Yes,57.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),20.1,No
+2215-ZAFGX,Male,0,No,No,9.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.5,No
+8213-TAZPM,Female,0,Yes,Yes,69.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),108.75,No
+7142-HVGBG,Male,1,Yes,No,43.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.0,Yes
+1304-SEGFY,Female,0,Yes,No,72.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,97.85,No
+7242-EDTYC,Male,0,No,Yes,44.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.55,No

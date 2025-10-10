@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1169-WCVAK,Male,0,Yes,No,19.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),88.8,No
+4548-SDBKE,Female,0,No,No,5.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.2,Yes
+8066-POXGX,Female,0,No,No,13.0,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.1,Yes
+7129-CAKJW,Female,0,No,No,17.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),80.05,No
+8695-ARGXZ,Male,1,Yes,No,34.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.55,No
+3570-YUEKJ,Female,0,No,No,42.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,49.55,No
+4143-OOBWZ,Male,0,Yes,No,5.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81.3,Yes

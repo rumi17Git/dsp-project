@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2320-SLKMB,Female,0,No,No,26.0,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),44.45,No
+4980-URKXC,Male,0,Yes,No,36.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.85,No
+4376-KFVRS,Male,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),114.05,No
+5886-VLQVU,Male,0,Yes,No,35.0,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),89.85,No
+3577-AMVUX,Male,0,No,No,1.0,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,55.05,No
+0771-WLCLA,Female,0,Yes,Yes,16.0,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,112.95,No
+5628-RKIFK,Female,1,No,No,49.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),101.55,No

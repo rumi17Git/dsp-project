@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2277-AXSDC,Female,0,No,No,32.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.75,No
+9442-JTWDL,Female,0,No,No,11.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.05,No
+0979-PHULV,Male,0,Yes,Yes,69.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.45,Yes
+3067-SVMTC,Female,0,Yes,No,68.0,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),55.9,No
+5495-GPSRW,Male,0,No,No,20.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.7,No
+7606-BPHHN,Male,0,No,No,72.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),19.8,No
+4742-DRORA,Male,0,Yes,Yes,60.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),95.4,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7508-SMHXL,Female,1,No,No,15.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),89.0,No
+3865-YIOTT,Male,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),106.1,No
+5993-BQHEA,Male,0,No,No,12.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.05,No
+6024-RUGGH,Male,0,Yes,Yes,72.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),25.2,No
+6513-EECDB,Male,1,Yes,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.55,Yes
+3956-CJUST,Female,1,No,No,23.0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.4,No
+4079-WWQQQ,Male,0,No,No,72.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),65.55,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7537-RBWEA,Female,0,No,No,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.15,No
+4656-CAURT,Male,0,No,No,69.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),23.95,No
+0121-SNYRK,Male,0,No,No,50.0,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,35.4,No
+1768-ZAIFU,Female,1,No,No,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.2,Yes
+4671-LXRDQ,Male,0,No,No,2.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.0,Yes
+3733-LSYCE,Female,0,Yes,No,15.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),75.35,No
+6265-FRMTQ,Male,0,No,No,31.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.4,No

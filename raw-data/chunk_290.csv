@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3061-BCKYI,Male,0,No,No,14.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.9,No
+6179-GJPSO,Female,1,No,No,43.0,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108.15,Yes
+7901-TBKJX,Male,1,No,No,56.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.05,No
+7228-PAQPD,Female,0,No,No,14.0,Yes,No,DSL,No,No,No,Yes,No,Yes,One year,No,Credit card (automatic),59.1,No
+3177-LASXD,Female,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71.35,Yes
+7746-QYVCO,Male,0,Yes,Yes,16.0,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,Yes,Mailed check,55.85,No
+5804-HYIEZ,Male,0,Yes,Yes,70.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.05,No

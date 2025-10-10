@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+9575-IWCAZ,Male,0,Yes,No,6.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,25.1,No
+7105-MXJLL,Female,1,Yes,No,26.0,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,60.7,No
+7064-FRRSW,Male,1,No,No,48.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,99.0,No
+7940-UQQUG,Female,0,Yes,Yes,64.0,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),104.4,No
+0923-PNFUB,Female,0,No,No,3.0,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,83.75,Yes
+3961-SXAXY,Male,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),44.05,No
+7010-BRBUU,Male,0,Yes,Yes,72.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),24.1,No

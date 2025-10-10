@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1724-IQWNM,Male,0,No,Yes,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.3,No
+8217-QYOHV,Male,0,No,No,5.0,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,55.75,No
+5546-QUERU,Male,0,No,No,13.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,19.95,No
+9940-HPQPG,Female,0,Yes,No,9.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),91.75,Yes
+6897-UUBNU,Male,0,No,No,29.0,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,89.65,No
+6127-IYJOZ,Male,1,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.85,No
+6618-RYATB,Female,0,No,No,1.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.55,Yes

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8644-XYTSV,Male,0,Yes,No,42.0,No,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),40.15,No
+6711-FLDFB,Female,0,No,No,7.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.9,Yes
+3873-WOSBC,Male,0,Yes,No,67.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.6,No
+7465-ZZRVX,Male,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.35,No
+7975-JMZNT,Male,0,Yes,No,66.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),91.7,No
+7251-XFOIL,Female,0,No,No,61.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,89.2,No
+4116-IQRFR,Male,0,Yes,Yes,4.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),24.1,No

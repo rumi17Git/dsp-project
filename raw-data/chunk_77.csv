@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2865-TCHJW,Female,1,No,No,4.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.2,Yes
+1423-BMPBQ,Female,0,Yes,Yes,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.0,No
+2393-DIVAI,Female,0,No,No,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.0,No
+5192-EBGOV,Female,1,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.7,Yes
+4568-KNYWR,Male,0,No,No,52.0,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),63.25,No
+8752-IMQOS,Male,0,Yes,Yes,5.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,20.1,No
+0742-LAFQK,Male,0,Yes,No,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,99.15,No

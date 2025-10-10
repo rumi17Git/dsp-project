@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6235-VDHOM,Female,1,No,No,5.0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,28.45,Yes
+7783-YKGDV,Female,0,No,No,12.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),99.7,Yes
+4374-YMUSQ,Male,0,No,No,34.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),116.25,No
+4513-CXYIX,Female,1,Yes,No,71.0,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,Yes,Credit card (automatic),80.7,No
+3957-HHLMR,Female,0,Yes,Yes,70.0,Yes,Yes,DSL,Yes,No,No,No,No,Yes,One year,No,Bank transfer (automatic),65.2,No
+7803-XOCCZ,Female,0,Yes,Yes,52.0,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),84.05,No
+5736-YEJAX,Male,0,No,Yes,69.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),79.45,No

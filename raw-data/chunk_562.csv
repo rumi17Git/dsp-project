@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4778-IZARL,Male,0,Yes,No,63.0,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),110.1,No
+0432-CAJZV,Male,0,No,No,3.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,90.7,No
+7008-LZVOZ,Male,0,Yes,Yes,66.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.3,No
+8868-WOZGU,Male,0,No,No,28.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.7,Yes
+1200-TUZHR,Female,1,No,No,8.0,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85.2,No
+9365-CSLBQ,Male,0,No,Yes,71.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,24.35,No
+1334-FJSVR,Male,0,No,No,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.25,Yes

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4918-QLLIW,Male,0,No,No,3.0,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),53.4,Yes
+7056-IMHCC,Male,1,Yes,No,53.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.9,Yes
+4854-SSLTN,Male,0,Yes,Yes,2.0,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,59.5,No
+5294-DMSFH,Female,0,Yes,Yes,29.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),87.8,No
+4837-PZTIC,Female,0,No,No,47.0,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,41.9,No
+1625-JAIIY,Female,0,Yes,Yes,68.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,One year,Yes,Electronic check,83.0,Yes
+0603-OLQDC,Male,0,No,Yes,12.0,Yes,No,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,69.85,No

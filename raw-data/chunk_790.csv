@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5550-VFRLC,Female,1,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.85,Yes
+5546-BYZSM,Female,0,No,No,41.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,20.45,No
+1492-KGETH,Male,0,Yes,Yes,70.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),78.35,No
+4929-BSTRX,Female,0,No,No,1.0,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,53.55,Yes
+4163-HFTUK,Male,0,No,No,51.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,19.1,No
+8215-NGSPE,Female,0,Yes,Yes,42.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.0,No
+2225-ZRGSG,Female,0,Yes,Yes,70.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),93.9,Yes

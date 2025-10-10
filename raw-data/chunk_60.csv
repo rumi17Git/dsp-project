@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3811-VBYBZ,Male,0,No,No,7.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.8,Yes
+1480-BKXGA,Male,1,Yes,No,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116.05,No
+2996-XAUVF,Male,0,No,No,70.0,No,No phone service,DSL,No,No,No,Yes,No,Yes,Two year,Yes,Mailed check,40.05,No
+9076-AXYIK,Male,1,Yes,No,64.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,102.1,No
+5968-XQIVE,Male,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,89.7,No
+8896-RAZCR,Female,0,No,Yes,44.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,19.9,No
+4640-UHDOS,Female,0,Yes,Yes,13.0,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,55.95,Yes

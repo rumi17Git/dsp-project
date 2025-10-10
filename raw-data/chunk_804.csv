@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6370-ZVHDV,Female,0,Yes,No,61.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.3,No
+5915-DGNVC,Female,0,Yes,No,49.0,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,71.8,No
+6260-XLACS,Male,0,No,No,4.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.7,No
+3566-CAAYU,Female,0,Yes,Yes,64.0,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,Two year,No,Electronic check,49.85,No
+4983-CCWMC,Male,0,No,No,3.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.6,No
+9103-CXVOK,Male,0,Yes,Yes,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.75,No
+2896-TBNBE,Male,0,Yes,No,40.0,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Electronic check,80.8,No

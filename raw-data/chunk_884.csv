@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3296-SILRA,Female,1,Yes,No,1.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,76.4,Yes
+9681-OXGVC,Female,0,No,No,5.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.5,Yes
+6394-HHHZM,Male,0,No,No,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.7,No
+5995-LFTLE,Male,0,No,No,58.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.3,No
+5180-UCIIQ,Male,1,Yes,Yes,22.0,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,40.05,Yes
+1932-UEDCX,Male,1,Yes,No,33.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),100.6,No
+7153-OANIO,Male,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.95,Yes

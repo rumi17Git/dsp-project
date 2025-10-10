@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+9787-XVQIU,Male,0,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.3,Yes
+8945-MUQUF,Male,0,No,No,51.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,94.8,Yes
+5656-MJEFC,Male,0,Yes,Yes,42.0,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),48.15,No
+6082-OQFBA,Male,0,Yes,Yes,23.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.65,No
+8051-HJRLT,Female,1,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.55,Yes
+8974-OVACP,Female,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.15,No
+4010-YLMVT,Female,0,No,No,56.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),106.6,No

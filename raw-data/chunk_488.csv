@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6609-MXJHJ,Female,0,Yes,Yes,30.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,25.1,No
+2669-OIDSD,Female,0,Yes,No,48.0,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100.05,No
+8400-WZICQ,Female,0,Yes,Yes,55.0,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,55.7,No
+3834-XUIFC,Male,0,No,No,7.0,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,85.2,Yes
+9576-SYUHJ,Male,0,No,No,37.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,91.15,No
+0410-IPFTY,Female,0,Yes,No,31.0,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),83.85,No
+2831-EBWRN,Male,0,No,No,4.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.9,No

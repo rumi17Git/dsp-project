@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3082-YVEKW,Female,0,Yes,Yes,23.0,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),77.15,No
+0191-EQUUH,Female,0,No,Yes,25.0,No,No phone service,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),35.05,No
+7134-HBPBS,Female,1,No,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),108.1,No
+3489-HHPFY,Female,0,Yes,No,2.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.05,No
+2926-JEJJC,Female,0,No,No,8.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),20.2,No
+8601-QACRS,Female,0,No,No,5.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.6,Yes
+4950-BDEUX,Male,0,No,No,35.0,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49.2,No

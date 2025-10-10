@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8982-NHAVY,Male,0,No,No,27.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),100.5,No
+4307-KWMXE,Male,0,No,No,10.0,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,35.75,No
+0141-YEAYS,Female,1,No,No,27.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),86.45,No
+2450-ZKEED,Female,0,No,No,11.0,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),53.8,No
+3694-DELSO,Male,0,Yes,Yes,4.0,No,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),38.55,No
+3893-JRNFS,Male,0,No,No,68.0,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),39.9,No
+9603-OAIHC,Male,1,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.05,No

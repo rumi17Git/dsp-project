@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1024-KPRBB,Female,0,No,No,38.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Mailed check,89.1,No
+4690-PKDQG,Female,1,Yes,No,42.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,95.55,No
+8155-IBNHG,Female,0,Yes,No,24.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.4,Yes
+0886-QGENL,Female,1,Yes,No,27.0,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.25,Yes
+9547-ITEFG,Male,0,Yes,Yes,9.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.6,No
+1264-FUHCX,Female,0,Yes,No,49.0,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),56.3,No
+7789-CRUVC,Female,1,Yes,No,61.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),94.2,No

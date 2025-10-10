@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8980-WQFWL,Female,0,No,No,35.0,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,62.1,No
+1730-ZMAME,Female,1,No,No,32.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.5,No
+6506-EYCNH,Female,0,Yes,Yes,28.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),19.55,No
+4634-JLRJT,Female,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,20.35,No
+9501-UKKNL,Male,0,No,No,59.0,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,51.7,No
+2560-QTSBS,Female,0,Yes,Yes,72.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),23.3,No
+7541-YLXCL,Male,0,No,No,36.0,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,65.4,Yes

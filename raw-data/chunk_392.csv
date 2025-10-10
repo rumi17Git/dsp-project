@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+9838-BFCQT,Male,0,Yes,Yes,72.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,26.1,No
+2790-XUYMV,Male,0,No,Yes,71.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),85.45,No
+0581-MDMPW,Female,0,No,No,24.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),88.95,No
+5013-SBUIH,Female,0,No,No,50.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,109.65,Yes
+1023-BQXZE,Male,0,No,No,57.0,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),74.35,No
+9163-GHAYE,Female,0,No,No,15.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,48.85,No
+3904-UKFRE,Male,0,No,No,4.0,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.1,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5119-KEPFY,Male,0,Yes,No,36.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.0,No
+8364-TRMMK,Female,0,No,No,3.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.65,Yes
+0916-KNFAJ,Male,0,Yes,No,61.0,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Mailed check,69.9,No
+8319-QBEHW,Male,0,No,Yes,26.0,No,No phone service,DSL,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),39.95,No
+3063-QFSZL,Female,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.4,Yes
+8775-LHDJH,Female,1,Yes,No,1.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.6,Yes
+9625-QNLUX,Male,0,Yes,Yes,68.0,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),103.25,No

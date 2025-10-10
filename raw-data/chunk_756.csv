@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3327-YBAKM,Female,0,Yes,No,64.0,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,96.9,No
+9441-QHEVC,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,19.1,No
+6705-LNMDD,Male,0,No,No,20.0,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.0,No
+2580-ASVVY,Female,0,Yes,No,37.0,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Electronic check,45.4,No
+3370-GQEAL,Male,0,Yes,Yes,30.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,85.45,No
+5032-USPKF,Female,0,No,No,38.0,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),84.1,No
+2982-IHMFT,Female,1,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.45,Yes

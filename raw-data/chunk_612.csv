@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0958-YHXGP,Female,0,No,No,7.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.9,No
+1101-SSWAG,Female,0,Yes,No,15.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,51.1,No
+2979-SXESE,Female,0,Yes,Yes,17.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,94.4,Yes
+4013-TLDHQ,Male,0,No,No,19.0,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,78.25,Yes
+5743-KHMNA,Male,0,No,No,71.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.55,No
+4194-FJARJ,Female,0,Yes,Yes,54.0,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),60.0,No
+5325-UWTWJ,Male,0,Yes,No,31.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),90.55,No

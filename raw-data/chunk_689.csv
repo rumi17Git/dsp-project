@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3688-FTHLT,Female,0,No,No,16.0,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),63.05,No
+0899-LIIBW,Male,0,Yes,No,34.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,100.85,No
+2568-OIADY,Female,0,Yes,No,37.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.5,Yes
+1384-RCUXW,Male,0,No,No,16.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,80.55,No
+5825-XJOCM,Male,0,No,Yes,48.0,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),64.4,No
+6848-YLDFR,Male,0,Yes,Yes,58.0,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),75.2,No
+8125-QPFJD,Female,0,Yes,No,72.0,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),84.9,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7619-ODSGN,Male,0,Yes,Yes,24.0,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,54.75,Yes
+5970-GHJAW,Male,0,Yes,Yes,46.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.95,No
+8879-XUAHX,Male,0,Yes,No,71.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,116.25,No
+3689-MOZGR,Female,0,No,No,29.0,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,31.2,No
+4195-PNGZS,Male,0,Yes,Yes,69.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.45,No
+5003-XZWWO,Male,0,Yes,No,71.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),84.2,No
+3988-RQIXO,Female,1,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.3,Yes

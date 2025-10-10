@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6015-VVHHE,Female,1,No,No,5.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),83.15,Yes
+1125-SNVCK,Female,1,No,No,49.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,43.8,No
+0384-LPITE,Male,0,No,No,40.0,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),62.05,No
+4616-EWBNJ,Female,0,No,No,16.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.1,No
+6347-DCUIK,Male,0,No,No,10.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.15,Yes
+1335-HQMKX,Female,0,Yes,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,101.35,No
+2545-EBUPK,Female,1,No,No,2.0,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.05,No

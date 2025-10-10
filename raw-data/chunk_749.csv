@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3235-ETOOB,Male,0,Yes,No,8.0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.5,Yes
+9708-KFDBY,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),20.55,No
+8058-INTPH,Female,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.65,Yes
+3642-GKTCT,Female,0,No,No,61.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,115.1,No
+0774-RMNUW,Female,0,Yes,Yes,71.0,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),59.7,No
+1334-PDUKM,Female,0,Yes,No,68.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Credit card (automatic),86.45,No
+0756-MPZRL,Male,0,No,No,46.0,No,No phone service,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),33.7,No

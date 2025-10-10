@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1784-EZDKJ,Male,0,Yes,No,51.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),106.8,No
+9297-FVVDH,Female,0,Yes,Yes,57.0,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,84.5,No
+8007-YYPWD,Female,0,No,No,15.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),25.05,No
+7101-HRBLJ,Female,0,Yes,Yes,72.0,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),83.7,No
+5159-YFPKQ,Female,0,No,No,2.0,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,75.8,Yes
+6635-CPNUN,Male,0,Yes,No,28.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),96.6,No
+4021-RQSNY,Male,1,Yes,No,29.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.5,Yes

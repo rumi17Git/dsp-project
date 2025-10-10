@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4495-LHSSK,Female,0,No,Yes,18.0,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,57.65,No
+5655-JSMZM,Male,1,No,No,49.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.2,Yes
+5915-ANOEI,Male,0,Yes,No,70.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,79.15,No
+9861-PDSZP,Female,0,No,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),108.05,No
+4505-EXZHB,Female,1,No,No,6.0,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,74.4,Yes
+7225-CBZPL,Male,1,Yes,No,17.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.8,No
+6704-UTUKK,Male,0,Yes,No,29.0,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45.9,No

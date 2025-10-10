@@ -1,0 +1,9 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7301-ABVAD,Female,0,No,No,72.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),86.6,No
+6614-FHDBO,Male,0,No,No,72.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),109.2,No
+7576-ASEJU,Female,0,Yes,Yes,41.0,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),74.7,No
+9058-HRZSV,Female,1,Yes,No,65.0,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,94.4,No
+4522-AKYLR,Female,1,No,No,13.0,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,54.8,No
+0221-WMXNQ,Male,1,No,No,4.0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.35,No
+0303-UNCIP,Male,0,No,No,41.0,Yes,Yes,DSL,No,No,Yes,No,No,Yes,One year,No,Mailed check,65.0,No
+9947-OTFQU,Male,1,No,No,15.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.4,Yes

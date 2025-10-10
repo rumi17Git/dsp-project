@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0567-GGCAC,Female,0,No,No,7.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,61.4,No
+7089-IVVAZ,Female,0,No,No,8.0,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.35,Yes
+8884-MRNSU,Male,0,Yes,Yes,17.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.9,No
+2171-UDMFD,Male,0,Yes,Yes,32.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),19.45,No
+9050-IKDZA,Female,1,No,No,2.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,81.5,No
+2205-YMZZJ,Male,1,No,No,7.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.8,Yes
+9802-CAQUT,Female,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),109.55,No

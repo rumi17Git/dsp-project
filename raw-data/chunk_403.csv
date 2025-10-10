@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1564-HJUVY,Male,0,No,No,4.0,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),63.75,No
+3617-XLSGQ,Female,0,Yes,Yes,66.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),109.25,No
+7517-LDMPS,Female,0,No,No,12.0,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.6,No
+7244-KXYZN,Female,0,No,No,24.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),20.45,No
+5226-NOZFC,Male,0,No,No,26.0,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.75,No
+2672-HUYVI,Female,0,No,No,6.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.1,Yes
+1400-WIVLL,Male,0,Yes,No,57.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,107.95,No

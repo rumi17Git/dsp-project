@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7410-KTVFV,Male,0,Yes,No,18.0,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,49.55,Yes
+5150-ITWWB,Male,1,No,No,3.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.85,No
+2253-KPMNB,Female,0,Yes,Yes,69.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),46.25,No
+1345-ZUKID,Male,0,No,No,14.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.35,No
+6429-SHBCB,Male,0,No,No,19.0,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,69.6,No
+9281-OFDMF,Male,1,No,No,39.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,90.7,No
+2603-HVKCG,Male,0,No,No,31.0,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.4,No

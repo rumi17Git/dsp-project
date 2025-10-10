@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2208-NKVVH,Male,0,Yes,Yes,43.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,24.25,No
+7614-QVWQL,Male,0,Yes,Yes,49.0,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),51.8,Yes
+1976-CFOCS,Female,1,Yes,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46.0,Yes
+4631-OACRM,Male,1,No,No,15.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.4,Yes
+7139-JZFVG,Male,0,Yes,Yes,60.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Bank transfer (automatic),60.5,No
+4987-GQWPO,Male,0,No,No,17.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),25.1,No
+3755-JBMNH,Male,1,Yes,No,16.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),71.8,Yes

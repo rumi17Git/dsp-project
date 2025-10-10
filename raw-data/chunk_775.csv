@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6437-UKHMV,Female,0,No,No,7.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.7,Yes
+6538-POCHL,Male,0,No,No,33.0,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),79.0,No
+6726-NNFWD,Female,1,Yes,No,71.0,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,No,Credit card (automatic),89.45,No
+3002-WQZWT,Female,0,No,No,29.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.2,No
+4277-UDIEF,Male,0,Yes,Yes,24.0,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),81.0,No
+1208-NBVFH,Male,0,Yes,Yes,20.0,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,49.6,No
+4912-PIGUY,Female,0,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.6,No

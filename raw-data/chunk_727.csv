@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3850-OKINF,Male,0,Yes,Yes,71.0,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,Yes,Electronic check,66.2,No
+6892-XPFPU,Male,1,Yes,No,24.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.25,Yes
+8010-EZLOU,Male,1,No,No,15.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80.2,Yes
+1156-ZFYDO,Female,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,19.75,No
+3295-YVUSR,Male,1,No,No,2.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,72.6,No
+8016-NCFVO,Male,1,No,No,55.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,116.5,No
+4119-ZYPZY,Male,1,No,No,71.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,106.8,No

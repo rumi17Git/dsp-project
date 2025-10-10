@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0378-XSZPU,Male,0,Yes,No,58.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Credit card (automatic),60.3,Yes
+1045-LTCYT,Female,0,Yes,Yes,8.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),21.05,No
+1544-JJMYL,Male,0,No,No,27.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Credit card (automatic),69.35,No
+4636-JGAAI,Male,0,Yes,No,34.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,88.85,No
+6874-SGLHU,Male,0,No,No,30.0,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),97.0,No
+5951-AOFIH,Male,0,No,No,33.0,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),66.4,No
+4729-XKASR,Male,0,No,Yes,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24.75,Yes

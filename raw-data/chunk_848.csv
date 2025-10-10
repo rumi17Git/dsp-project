@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2675-IJRGJ,Male,0,No,No,53.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.65,No
+7049-GKVZY,Female,0,No,No,17.0,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),79.85,No
+8577-QSOCG,Female,0,Yes,Yes,38.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,20.2,No
+3721-CNZHX,Male,0,No,No,15.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.8,No
+0212-ISBBF,Female,0,No,No,22.0,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.35,No
+9185-TQCVP,Male,0,Yes,No,14.0,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.15,Yes
+3585-YNADK,Female,0,Yes,No,57.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),74.6,No

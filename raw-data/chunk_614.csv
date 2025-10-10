@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3754-DXMRT,Male,1,No,No,2.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.15,Yes
+5792-JALQC,Female,1,No,No,52.0,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Two year,No,Bank transfer (automatic),59.85,No
+7130-VTEWQ,Female,1,No,No,8.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.75,Yes
+2200-DSAAL,Female,0,No,No,68.0,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,80.65,No
+4302-ZYFEL,Male,0,Yes,Yes,69.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),20.55,No
+9351-LZYGF,Female,0,Yes,No,42.0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),66.4,No
+4366-CTOUZ,Female,0,No,No,50.0,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,100.2,No

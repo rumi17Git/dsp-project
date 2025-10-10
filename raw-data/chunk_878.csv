@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+4718-WXBGI,Male,0,Yes,Yes,72.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),91.95,No
+2867-UIMSS,Male,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,80.5,Yes
+8495-PRWFH,Female,1,No,No,42.0,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,55.65,No
+0439-IFYUN,Female,1,No,No,18.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.7,No
+5716-LIBJC,Female,0,No,Yes,13.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),104.15,No
+2868-LLSKM,Female,0,Yes,Yes,68.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),83.65,No
+8111-RKSPX,Male,0,No,No,4.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),72.2,Yes

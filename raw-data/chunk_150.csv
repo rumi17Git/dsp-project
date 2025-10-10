@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8659-IOOPU,Female,0,Yes,Yes,71.0,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,100.45,No
+1338-CECEE,Male,0,Yes,Yes,41.0,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),68.5,No
+7439-DKZTW,Male,0,No,No,1.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.55,No
+4646-QZXTF,Female,0,Yes,No,7.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),81.25,No
+4607-CHPCA,Male,0,Yes,Yes,25.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,90.4,Yes
+9742-XOKTS,Male,0,Yes,Yes,67.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,89.55,No
+6921-OZMFH,Male,0,Yes,Yes,5.0,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,55.7,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1754-GKYPY,Male,1,Yes,No,22.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),89.75,No
+5294-CDGWY,Male,0,Yes,Yes,51.0,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,59.3,Yes
+7956-XQWGU,Male,0,No,No,27.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),19.4,No
+1591-MQJTP,Male,1,Yes,No,51.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),93.65,No
+5295-PCJOO,Male,0,No,Yes,4.0,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.4,Yes
+2369-FEVNO,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,19.9,No
+9863-JZAIC,Male,0,No,No,35.0,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,55.0,Yes

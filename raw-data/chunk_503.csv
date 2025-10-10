@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7820-ZYGNY,Male,0,No,No,63.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Credit card (automatic),90.45,No
+4317-VTEOA,Male,0,No,No,1.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,50.75,Yes
+9677-AVKED,Female,0,No,Yes,53.0,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,84.6,No
+1670-SVOWZ,Female,0,Yes,Yes,14.0,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),89.65,Yes
+2227-JRSJX,Female,0,No,No,21.0,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99.15,No
+9847-HNVGP,Male,0,No,No,17.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.95,No
+6696-YDAYZ,Male,0,Yes,Yes,16.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.5,No
