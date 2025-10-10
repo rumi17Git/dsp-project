@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+9436-ZBZCT,Male,0,No,No,14.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,89.95,Yes
+7801-CEDNV,Male,0,Yes,No,27.0,Yes,No,DSL,Yes,No,No,No,No,No,One year,No,Credit card (automatic),48.7,No
+2057-BOYKM,Female,1,Yes,No,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),96.6,No
+3658-QQJYD,Male,0,No,No,62.0,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),74.3,No
+1803-BGNBD,Female,0,No,No,12.0,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,54.3,No
+0134-XWXCE,Female,1,No,No,44.0,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),74.85,No
+6950-TWMYB,Male,0,Yes,Yes,54.0,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),79.95,No

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1963-SVUCV,Male,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.3,Yes
+4184-VODJZ,Male,0,Yes,Yes,63.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Electronic check,91.35,No
+0220-EBGCE,Male,0,No,No,2.0,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,85.85,Yes
+1092-WPIVQ,Female,0,Yes,Yes,18.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.1,No
+7233-IOQNP,Female,0,Yes,No,43.0,No,No phone service,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),34.0,No
+2834-JKOOW,Female,0,No,No,15.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,45.9,No
+2754-VDLTR,Male,0,No,Yes,10.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,95.2,Yes

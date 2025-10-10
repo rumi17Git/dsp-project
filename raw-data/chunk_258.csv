@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0621-TWIEM,Male,0,No,No,10.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.55,Yes
+3537-RYBHH,Female,1,Yes,No,47.0,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),67.45,No
+2485-ITVKB,Female,0,Yes,No,2.0,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.1,Yes
+3669-OYSJI,Male,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),46.2,Yes
+1612-EOHDH,Female,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.15,Yes
+6702-OHFWR,Male,1,No,No,1.0,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,43.3,Yes
+5296-BFCYD,Male,0,Yes,Yes,46.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,20.1,No

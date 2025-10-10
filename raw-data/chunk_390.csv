@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2770-NSVDG,Male,0,Yes,No,24.0,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,29.1,No
+9375-MHRRS,Male,0,No,No,6.0,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.05,No
+2634-HCZGT,Male,1,Yes,No,53.0,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,60.05,Yes
+7503-QQRVF,Male,1,Yes,No,16.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74.3,Yes
+4860-YZGZM,Male,0,No,No,10.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,20.0,No
+6599-GZWCM,Female,0,No,No,13.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Mailed check,74.65,No
+2691-NZETQ,Male,0,No,No,9.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.35,Yes

@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+2877-VDUER,Female,0,Yes,Yes,35.0,No,No phone service,DSL,No,No,No,Yes,Yes,No,One year,No,Mailed check,40.9,No
+9152-AMKAK,Male,0,No,No,6.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,80.25,No
+1794-HBQTJ,Female,0,No,No,1.0,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),48.6,Yes
+9432-VOFYX,Male,0,No,No,17.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.8,No
+8049-WJCLQ,Male,0,Yes,Yes,10.0,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,60.2,No
+6586-PSJOX,Male,0,No,Yes,15.0,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),55.2,No
+2460-FPSYH,Female,1,No,No,40.0,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,55.8,Yes

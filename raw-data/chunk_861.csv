@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6013-BHCAW,Male,0,Yes,Yes,61.0,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),81.0,No
+0401-WDBXM,Male,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),105.55,No
+3387-PLKUI,Female,0,Yes,Yes,13.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.8,No
+6096-EGVTU,Female,0,Yes,Yes,64.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,24.9,No
+3797-VTIDR,Male,0,Yes,No,1.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,23.45,Yes
+5081-NWSUP,Female,0,No,No,10.0,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,64.9,No
+2580-ATZSQ,Female,0,Yes,Yes,65.0,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),61.35,No

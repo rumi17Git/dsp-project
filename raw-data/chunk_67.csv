@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+5956-VKDTT,Female,1,Yes,No,5.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.35,Yes
+8677-HDZEE,Female,0,No,No,56.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.45,No
+2475-MROZF,Male,0,No,No,30.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),95.0,No
+9412-GHEEC,Male,0,No,No,40.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),104.8,Yes
+3482-ABPKK,Female,0,No,No,28.0,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,54.3,No
+6705-LXORM,Female,1,Yes,No,5.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.05,No
+0257-ZESQC,Female,1,Yes,No,27.0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.2,Yes

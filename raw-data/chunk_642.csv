@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1100-DDVRV,Male,0,Yes,No,17.0,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,49.8,No
+0378-TOVMS,Female,0,No,No,3.0,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,85.8,Yes
+4355-HBJHH,Male,0,Yes,Yes,67.0,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,79.7,Yes
+6728-WYQBC,Male,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.95,No
+9058-CBREO,Female,1,No,No,1.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50.55,Yes
+9029-FEGVJ,Female,1,Yes,No,32.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,79.3,No
+7216-KAOID,Male,0,Yes,Yes,41.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),19.5,No

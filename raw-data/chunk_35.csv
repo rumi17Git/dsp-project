@@ -1,0 +1,9 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0314-TKOSI,Female,0,No,No,6.0,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,55.15,No
+8229-MYEJZ,Female,0,No,No,10.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51.2,No
+2080-SRCDE,Female,0,No,Yes,1.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,25.4,No
+9577-WJVCQ,Female,0,No,No,68.0,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,54.45,No
+9512-UIBFX,Male,0,Yes,Yes,18.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,95.15,Yes
+6202-DYYFX,Female,0,No,No,22.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,One year,Yes,Credit card (automatic),76.0,No
+3808-HFKDE,Female,0,No,No,20.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.35,No
+5583-SXDAG,Male,0,Yes,No,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.0,Yes

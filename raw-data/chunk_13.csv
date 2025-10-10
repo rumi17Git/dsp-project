@@ -1,0 +1,9 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+3192-NQECA,Male,0,Yes,No,68.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.0,Yes
+6180-YBIQI,Male,0,No,No,5.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24.3,No
+6728-DKUCO,Female,0,Yes,Yes,72.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,104.15,No
+9750-BOOHV,Female,0,No,No,32.0,No,No phone service,DSL,Yes,No,No,No,No,No,One year,No,Mailed check,30.15,No
+8597-CWYHH,Male,0,No,No,43.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Mailed check,94.35,No
+2848-YXSMW,Male,0,Yes,Yes,72.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),19.4,No
+0486-HECZI,Male,0,Yes,No,55.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,96.75,Yes
+4549-ZDQYY,Female,0,No,No,52.0,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,No,Credit card (automatic),57.95,No

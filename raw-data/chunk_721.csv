@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6502-HCJTI,Male,1,Yes,No,7.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94.7,Yes
+2606-RMDHZ,Male,0,No,No,6.0,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),30.5,Yes
+5774-XZTQC,Female,0,Yes,Yes,7.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.45,No
+2676-SSLTO,Male,0,No,No,49.0,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),66.15,No
+6266-QHOJZ,Female,0,No,No,65.0,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,89.85,No
+7269-JISCY,Female,0,No,No,55.0,Yes,No,DSL,No,No,No,No,No,No,One year,No,Bank transfer (automatic),45.05,No
+0363-SVHYR,Male,0,Yes,Yes,71.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),86.85,No

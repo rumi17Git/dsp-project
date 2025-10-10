@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7515-LODFU,Male,1,No,No,69.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.3,No
+0440-UEDAI,Female,0,No,No,53.0,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),94.45,No
+1337-BOZWO,Male,0,Yes,Yes,18.0,No,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,No,Credit card (automatic),46.4,No
+0868-VJRDR,Male,0,Yes,No,64.0,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104.05,No
+8714-EUHJO,Female,0,Yes,Yes,31.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,91.15,Yes
+6344-SFJVH,Female,0,No,No,20.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),24.9,No
+3950-VPYJB,Male,0,Yes,Yes,57.0,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Mailed check,59.6,No

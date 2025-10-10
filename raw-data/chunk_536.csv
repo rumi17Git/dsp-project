@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+1508-DFXCU,Male,0,No,No,12.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.45,No
+8614-VGMMV,Female,0,No,No,15.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.1,Yes
+7868-BGSZA,Male,0,Yes,No,43.0,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,80.2,No
+2800-QQUSO,Male,0,No,No,42.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100.3,No
+2930-UOTMB,Female,0,No,No,31.0,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),65.25,Yes
+7973-DZRKH,Female,0,No,Yes,66.0,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),90.95,No
+5914-DVBWJ,Female,1,No,No,18.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,85.45,Yes

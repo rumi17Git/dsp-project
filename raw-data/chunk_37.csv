@@ -1,0 +1,9 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+6556-DBKZF,Female,0,Yes,Yes,71.0,Yes,No,Fiber optic,No,No,Yes,No,No,No,Two year,No,Electronic check,76.05,No
+6851-WEFYX,Male,1,Yes,No,35.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.8,No
+2985-JUUBZ,Male,0,Yes,Yes,40.0,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.55,No
+6390-DSAZX,Female,0,No,Yes,1.0,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,73.6,Yes
+0895-LMRSF,Male,0,No,No,23.0,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),64.9,No
+8098-LLAZX,Female,1,No,No,4.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,Yes
+8266-VBFQL,Male,0,No,No,4.0,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,90.4,No
+8181-YHCMF,Female,0,Yes,Yes,68.0,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60.3,No

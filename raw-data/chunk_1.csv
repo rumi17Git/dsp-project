@@ -1,0 +1,9 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+7892-POOKP,Female,0,Yes,No,,Yes,Yes,Satellite,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,104.8,Yes
+6388-TABGU,Male,0,No,Yes,,Yes,No,Satellite,Yes,Yes,No,No,No,No,One year,No,Bank transfer (automatic),56.15,No
+9763-GRSKD,Male,0,Yes,Yes,,Yes,No,Satellite,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,49.95,No
+7469-LKBCI,Male,0,No,No,,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),18.95,No
+8091-TTVAX,Male,0,Yes,No,,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),100.35,No
+0280-XJGEX,Male,0,No,No,,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),103.7,Yes
+5129-JLPIS,Male,0,No,No,,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.5,No
+3655-SNQYZ,Female,0,Yes,Yes,,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),-50.0,No

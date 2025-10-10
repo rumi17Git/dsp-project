@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+8741-LQOBK,Female,0,Yes,Yes,46.0,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),35.05,No
+3393-FMZPV,Female,0,No,No,25.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.25,Yes
+8082-GHXOP,Male,0,No,Yes,13.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44.0,No
+6402-ZFPPI,Female,1,No,No,25.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,102.8,Yes
+0980-FEXWF,Male,0,Yes,Yes,26.0,Yes,No,DSL,No,No,Yes,No,No,No,One year,No,Mailed check,50.35,No
+7486-KSRVI,Male,0,No,No,43.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,100.0,Yes
+3011-WQKSZ,Male,0,No,Yes,19.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,20.0,No

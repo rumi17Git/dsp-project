@@ -1,0 +1,8 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
+0666-UXTJO,Male,1,Yes,No,34.0,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85.2,No
+1471-GIQKQ,Female,0,No,No,1.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,49.95,No
+4807-IZYOZ,Female,0,No,No,51.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.65,No
+1122-JWTJW,Male,0,Yes,Yes,1.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.65,Yes
+9710-NJERN,Female,0,No,No,39.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.15,No
+9837-FWLCH,Male,0,Yes,Yes,12.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,19.2,No
+1699-HPSBG,Male,0,No,No,12.0,Yes,No,DSL,No,No,No,Yes,Yes,No,One year,Yes,Electronic check,59.8,Yes
