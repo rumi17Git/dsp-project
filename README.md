@@ -24,7 +24,7 @@ This project focuses on customer churn prediction for a telecommunications compa
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rumi17Git/dsp-project.git
 cd project-root
 
 	2.	Create a virtual environment (conda or venv):
@@ -78,6 +78,7 @@ Evaluation Metrics
 	•	Confusion Matrix: Detailed breakdown of predictions
 
 Target: F1-score ≥ 0.75 on validation data
+
 
 
 
