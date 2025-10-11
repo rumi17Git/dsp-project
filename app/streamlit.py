@@ -90,7 +90,6 @@ if page == "Prediction":
 
         if st.button("Predict Batch"):
             try:
-                # Ensure required columns exist and correct order
                 required_cols = [
                     "gender", "SeniorCitizen", "Partner", "Dependents", "tenure",
                     "PhoneService", "MultipleLines", "InternetService", "OnlineSecurity",
@@ -102,7 +101,6 @@ if page == "Prediction":
 
                 for col in required_cols:
                     if col not in df.columns:
-                        # Fill missing columns with defaults
                         if col in ["SeniorCitizen", "tenure"]:
                             df[col] = 0
                         elif col in ["MonthlyCharges", "TotalCharges"]:
@@ -110,19 +108,19 @@ if page == "Prediction":
                         else:
                             df[col] = ""
 
-                # Reorder columns
                 df = df[required_cols]
 
-                # Convert numeric columns to proper type
                 df["SeniorCitizen"] = df["SeniorCitizen"].astype(int)
                 df["tenure"] = df["tenure"].astype(int)
                 df["MonthlyCharges"] = df["MonthlyCharges"].astype(float)
                 df["TotalCharges"] = df["TotalCharges"].astype(float)
 
-                # Send to API
-                payload = df.to_dict(orient="records")
-                response = requests.post(f"{API_URL}/predict", json=payload)
-                response.raise_for_status()
+                payload = {"source": "webapp", "data": df.to_dict(orient="records")}
+
+                with st.spinner("Running batch predictions..."):
+                    response = requests.post(f"{API_URL}/predict", json=payload)
+                    response.raise_for_status()
+
                 result = response.json()
 
                 df["predicted_label"] = result["predictions"]
