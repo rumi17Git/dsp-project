@@ -1,0 +1,22 @@
+[2025-11-08T00:00:08.991+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-08T00:00:09.008+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.make_predictions scheduled__2025-11-07T00:00:00+00:00 [queued]>
+[2025-11-08T00:00:09.011+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.make_predictions scheduled__2025-11-07T00:00:00+00:00 [queued]>
+[2025-11-08T00:00:09.011+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-08T00:00:09.019+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): make_predictions> on 2025-11-07 00:00:00+00:00
+[2025-11-08T00:00:09.024+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'make_predictions', 'scheduled__2025-11-07T00:00:00+00:00', '--job-id', '69', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/tmp/tmpvmxntfyd']
+[2025-11-08T00:00:09.026+0000] {standard_task_runner.py:91} INFO - Job 69: Subtask make_predictions
+[2025-11-08T00:00:09.026+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=275) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-11-08T00:00:09.028+0000] {standard_task_runner.py:63} INFO - Started process 284 to run task
+[2025-11-08T00:00:09.054+0000] {task_command.py:426} INFO - Running <TaskInstance: prediction_dag.make_predictions scheduled__2025-11-07T00:00:00+00:00 [running]> on host 7074cc6cba04
+[2025-11-08T00:00:09.090+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='make_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-11-07T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-07T00:00:00+00:00'
+[2025-11-08T00:00:09.091+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-08T00:00:09.101+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_463.csv
+[2025-11-08T00:00:09.262+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_463.csv
+[2025-11-08T00:00:09.262+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_742.csv
+[2025-11-08T00:00:09.334+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_742.csv
+[2025-11-08T00:00:09.334+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-08T00:00:09.335+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-08T00:00:09.338+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=prediction_dag, task_id=make_predictions, run_id=scheduled__2025-11-07T00:00:00+00:00, execution_date=20251107T000000, start_date=20251108T000009, end_date=20251108T000009
+[2025-11-08T00:00:09.373+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-08T00:00:09.382+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-08T00:00:09.383+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

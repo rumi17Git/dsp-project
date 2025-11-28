@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-5482-PLVPE,Female,1,No,No,2.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24.35,Yes
-4553-DVPZG,Female,0,Yes,No,62.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.35,No
-4902-OHLSK,Female,1,No,No,29.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,98.65,Yes
-6917-IAYHD,Male,0,No,Yes,1.0,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,33.6,No
-0495-ZBNGW,Male,1,Yes,No,5.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79.9,Yes
-8620-RJPZN,Female,0,No,No,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,20.7,No
-7572-KPVKK,Male,0,No,Yes,62.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,104.05,No

@@ -1,0 +1,130 @@
+version: '3.8'
+
+x-airflow-common:
+  &airflow-common
+  image: apache/airflow:2.9.1
+  environment:
+    - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+    - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=sqlite:////opt/airflow/db/airflow.db
+    - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    - _PIP_ADDITIONAL_REQUIREMENTS=great-expectations==0.18.21
+  volumes:
+    - ./airflow/dags:/opt/airflow/dags
+    - ./airflow/logs:/opt/airflow/logs
+    - ./airflow/plugins:/opt/airflow/plugins
+    - ./airflow/db:/opt/airflow/db
+    - ./airflow/raw-data:/opt/airflow/raw-data
+    - ./airflow/good-data:/opt/airflow/good-data
+    - ./airflow/predictions:/opt/airflow/predictions
+    - ./airflow/reports:/opt/airflow/reports  
+  networks:
+    - dsp_network
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: dsp_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: test123
+      POSTGRES_DB: dsp_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - dsp_network
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dsp_api
+    depends_on:
+      - postgres
+    environment:
+      DATABASE_URL: postgresql://postgres:test123@dsp_postgres:5432/dsp_db
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    command: uvicorn app.api:app --host 0.0.0.0 --port 8000 --reload
+    networks:
+      - dsp_network
+
+  airflow-init:
+    <<: *airflow-common
+    entrypoint: /bin/bash
+    command: -c "
+      airflow db migrate &&
+      airflow users create \
+        --username admin \
+        --firstname admin \
+        --lastname user \
+        --role Admin \
+        --email admin@example.com \
+        --password admin || true"
+    restart: no
+    networks:
+      - dsp_network
+
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow-webserver
+    command: webserver
+    ports:
+      - "8080:8080"
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      airflow-scheduler:
+        condition: service_started
+    networks:
+      - dsp_network
+
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow-scheduler
+    command: scheduler
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    networks:
+      - dsp_network
+
+  streamlit:
+    image: python:3.10
+    container_name: dsp_streamlit
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: bash -c "pip install -r requirements.txt && streamlit run app/streamlit.py --server.port 8501 --server.address 0.0.0.0"
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    networks:
+      - dsp_network
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: dsp_grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    depends_on:
+      - postgres
+    networks:
+      - dsp_network
+    volumes:
+      - grafana-data:/var/lib/grafana
+
+volumes:
+  pgdata:
+  grafana-data:
+
+networks:
+  dsp_network:
+    driver: bridge

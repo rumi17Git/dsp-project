@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-1839-UMACK,Male,0,No,No,42.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,25.05,No
-3030-YDNRM,Male,0,No,No,8.0,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.85,No
-7321-KKSDU,Male,0,No,Yes,32.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.5,No
-3402-XRIUO,Female,1,Yes,No,22.0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,63.55,No
-3132-TVFDZ,Male,1,Yes,No,57.0,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.85,Yes
-8286-AFUYI,Male,0,No,No,1.0,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,47.95,No
-8080-DDEMJ,Male,1,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.1,Yes

@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-8041-TMEID,Male,1,Yes,No,63.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),108.5,No
-7321-ZNSLA,Male,0,Yes,Yes,13.0,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,40.55,No
-6941-KXRRV,Female,1,Yes,No,48.0,Yes,No,DSL,No,Yes,No,No,No,Yes,One year,Yes,Bank transfer (automatic),58.95,No
-3721-CNEYS,Female,0,No,No,2.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.95,Yes
-8727-JQFHV,Male,0,Yes,Yes,57.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.75,No
-9475-NNDGC,Male,0,Yes,No,71.0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),113.15,No
-1355-KUSBG,Female,0,Yes,Yes,7.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,48.8,No

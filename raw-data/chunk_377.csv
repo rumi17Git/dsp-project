@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-9462-MJUAW,Male,0,No,No,4.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,50.4,Yes
-8128-YVJRG,Female,0,No,No,7.0,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,79.65,Yes
-5440-VHLUL,Male,0,No,No,69.0,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),105.2,No
-5781-BKHOP,Female,0,Yes,No,72.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),100.65,No
-4283-FUTGF,Male,1,No,No,19.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,79.85,Yes
-5213-TWWJU,Male,0,No,No,28.0,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,91.0,No
-1569-TTNYJ,Male,0,Yes,No,5.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,78.75,Yes

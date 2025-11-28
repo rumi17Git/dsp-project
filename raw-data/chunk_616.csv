@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-0096-BXERS,Female,0,Yes,No,6.0,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,50.35,No
-3806-YAZOV,Female,0,No,No,3.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.8,No
-7998-ZLXWN,Female,0,Yes,No,15.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),20.45,No
-6253-WRFHY,Male,0,Yes,Yes,13.0,Yes,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,64.75,No
-9133-AYJZG,Female,0,No,No,23.0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),98.7,No
-2675-OTVVJ,Male,1,Yes,No,31.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,89.45,No
-8680-CGLTP,Male,0,No,No,29.0,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,58.75,No

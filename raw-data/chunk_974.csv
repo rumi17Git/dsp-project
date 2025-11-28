@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-6692-UDPJC,Female,0,Yes,Yes,14.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,91.65,Yes
-1273-MTETI,Female,1,No,No,4.0,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,88.85,Yes
-0657-DOGUM,Female,0,Yes,No,48.0,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),60.6,No
-5480-HPRRX,Female,1,No,No,3.0,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.3,Yes
-8792-AOROI,Female,0,Yes,No,8.0,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Two year,No,Mailed check,65.5,No
-0295-PPHDO,Male,0,No,No,1.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,Yes
-5146-YYFRZ,Male,0,No,No,67.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),19.95,No

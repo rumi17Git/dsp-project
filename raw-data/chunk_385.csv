@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-2351-BKRZW,Female,0,Yes,Yes,43.0,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),75.2,No
-4455-BFSPD,Female,0,Yes,No,61.0,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),101.15,No
-0415-MOSGF,Female,0,No,No,1.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,44.4,Yes
-1724-BQUHA,Male,1,No,No,5.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.5,Yes
-3948-KXDUF,Male,0,No,No,66.0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),68.75,No
-2323-ARSVR,Male,0,Yes,No,67.0,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,111.05,No
-0815-MFZGM,Female,0,Yes,No,42.0,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),99.0,No

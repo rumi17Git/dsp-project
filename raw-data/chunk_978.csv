@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-7952-OBOYL,Male,0,No,No,3.0,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,89.85,No
-7470-DYNOE,Male,0,No,No,53.0,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,Yes,Electronic check,61.1,No
-7853-OETYL,Female,0,Yes,No,4.0,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.05,No
-1545-ACTAS,Female,0,Yes,Yes,48.0,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),99.7,No
-5876-HZVZM,Female,0,Yes,Yes,6.0,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),55.9,Yes
-1400-MMYXY,Male,1,Yes,No,3.0,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.9,Yes
-5126-RCXYW,Male,0,Yes,Yes,54.0,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),46.0,No

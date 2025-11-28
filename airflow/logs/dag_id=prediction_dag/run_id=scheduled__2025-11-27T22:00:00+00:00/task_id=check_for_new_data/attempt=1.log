@@ -1,0 +1,18 @@
+[2025-11-27T22:02:10.129+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T22:02:10.154+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.check_for_new_data scheduled__2025-11-27T22:00:00+00:00 [queued]>
+[2025-11-27T22:02:10.157+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.check_for_new_data scheduled__2025-11-27T22:00:00+00:00 [queued]>
+[2025-11-27T22:02:10.158+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T22:02:10.167+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): check_for_new_data> on 2025-11-27 22:00:00+00:00
+[2025-11-27T22:02:10.171+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'check_for_new_data', 'scheduled__2025-11-27T22:00:00+00:00', '--job-id', '2568', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/tmp/tmpw8z279kk']
+[2025-11-27T22:02:10.173+0000] {standard_task_runner.py:91} INFO - Job 2568: Subtask check_for_new_data
+[2025-11-27T22:02:10.174+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=16598) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-11-27T22:02:10.175+0000] {standard_task_runner.py:63} INFO - Started process 16607 to run task
+[2025-11-27T22:02:10.198+0000] {task_command.py:426} INFO - Running <TaskInstance: prediction_dag.check_for_new_data scheduled__2025-11-27T22:00:00+00:00 [running]> on host c76b7a4b7ca3
+[2025-11-27T22:02:10.236+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='check_for_new_data' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T22:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-27T22:00:00+00:00'
+[2025-11-27T22:02:10.237+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T22:02:10.249+0000] {python.py:237} INFO - Done. Returned value was: ['chunk_603.csv']
+[2025-11-27T22:02:10.249+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T22:02:10.257+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=prediction_dag, task_id=check_for_new_data, run_id=scheduled__2025-11-27T22:00:00+00:00, execution_date=20251127T220000, start_date=20251127T220210, end_date=20251127T220210
+[2025-11-27T22:02:10.275+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-27T22:02:10.290+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T22:02:10.292+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

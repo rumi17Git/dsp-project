@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-4377-VDHYI,Male,0,Yes,Yes,32.0,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Electronic check,90.8,No
-0475-RIJEP,Male,0,No,No,43.0,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,77.85,Yes
-1260-TTRXI,Male,0,No,No,4.0,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,54.3,Yes
-3719-TDVQB,Female,1,Yes,No,54.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,18.95,No
-6328-ZPBGN,Female,1,No,No,11.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.15,Yes
-0201-MIBOL,Female,1,No,No,66.0,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),102.4,No
-4937-QPZPO,Male,0,Yes,Yes,61.0,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,99.9,No

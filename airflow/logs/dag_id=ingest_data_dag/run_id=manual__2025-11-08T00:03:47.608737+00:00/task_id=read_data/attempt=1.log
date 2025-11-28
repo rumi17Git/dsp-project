@@ -1,0 +1,18 @@
+[2025-11-08T00:03:50.241+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-08T00:03:50.256+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.read_data manual__2025-11-08T00:03:47.608737+00:00 [queued]>
+[2025-11-08T00:03:50.259+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.read_data manual__2025-11-08T00:03:47.608737+00:00 [queued]>
+[2025-11-08T00:03:50.259+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-08T00:03:50.269+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): read_data> on 2025-11-08 00:03:47.608737+00:00
+[2025-11-08T00:03:50.272+0000] {standard_task_runner.py:63} INFO - Started process 333 to run task
+[2025-11-08T00:03:50.274+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'read_data', 'manual__2025-11-08T00:03:47.608737+00:00', '--job-id', '74', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmpanv_zdlw']
+[2025-11-08T00:03:50.276+0000] {standard_task_runner.py:91} INFO - Job 74: Subtask read_data
+[2025-11-08T00:03:50.321+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.read_data manual__2025-11-08T00:03:47.608737+00:00 [running]> on host 7074cc6cba04
+[2025-11-08T00:03:50.381+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='read_data' AIRFLOW_CTX_EXECUTION_DATE='2025-11-08T00:03:47.608737+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-11-08T00:03:47.608737+00:00'
+[2025-11-08T00:03:50.382+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-08T00:03:50.402+0000] {logging_mixin.py:188} INFO - Selected file: /opt/airflow/raw-data/chunk_638.csv
+[2025-11-08T00:03:50.403+0000] {python.py:237} INFO - Done. Returned value was: /opt/airflow/raw-data/chunk_638.csv
+[2025-11-08T00:03:50.403+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-08T00:03:50.412+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=ingest_data_dag, task_id=read_data, run_id=manual__2025-11-08T00:03:47.608737+00:00, execution_date=20251108T000347, start_date=20251108T000350, end_date=20251108T000350
+[2025-11-08T00:03:50.458+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-08T00:03:50.471+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-11-08T00:03:50.474+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-9572-WUKSB,Male,0,Yes,No,3.0,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.9,No
-5893-KCLGT,Female,0,No,Yes,72.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,19.75,No
-0076-LVEPS,Male,0,No,Yes,29.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,45.0,No
-3640-JQGJG,Male,0,Yes,Yes,13.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),44.8,No
-4919-MOAVT,Male,0,No,Yes,3.0,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.65,Yes
-1596-OQSPS,Female,0,No,No,11.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51.1,No
-9867-XOBQA,Female,0,No,Yes,21.0,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,53.15,No

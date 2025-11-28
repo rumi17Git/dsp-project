@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-0394-YONDK,Male,0,Yes,Yes,70.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),25.15,No
-6574-MCOEH,Female,0,Yes,Yes,33.0,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,79.15,No
-7399-QHBJS,Female,0,Yes,Yes,72.0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card (automatic),66.75,No
-3049-SOLAY,Female,0,Yes,No,3.0,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.2,Yes
-0997-YTLNY,Female,0,No,Yes,19.0,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,48.8,No
-3317-HRTNN,Female,1,No,No,5.0,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,45.7,Yes
-9479-HYNYL,Female,0,Yes,No,71.0,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),80.7,No

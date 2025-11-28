@@ -1,0 +1,22 @@
+[2025-11-27T20:09:29.241+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T20:09:29.276+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.split_and_save_data scheduled__2025-11-27T20:08:00+00:00 [queued]>
+[2025-11-27T20:09:29.283+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.split_and_save_data scheduled__2025-11-27T20:08:00+00:00 [queued]>
+[2025-11-27T20:09:29.283+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T20:09:29.292+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): split_and_save_data> on 2025-11-27 20:08:00+00:00
+[2025-11-27T20:09:29.300+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=5589) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-11-27T20:09:29.301+0000] {standard_task_runner.py:63} INFO - Started process 5606 to run task
+[2025-11-27T20:09:29.301+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'split_and_save_data', 'scheduled__2025-11-27T20:08:00+00:00', '--job-id', '2016', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmpuz9skjc6']
+[2025-11-27T20:09:29.302+0000] {standard_task_runner.py:91} INFO - Job 2016: Subtask split_and_save_data
+[2025-11-27T20:09:29.328+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.split_and_save_data scheduled__2025-11-27T20:08:00+00:00 [running]> on host c76b7a4b7ca3
+[2025-11-27T20:09:29.493+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='split_and_save_data' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T20:08:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-27T20:08:00+00:00'
+[2025-11-27T20:09:29.494+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T20:09:29.522+0000] {logging_mixin.py:188} INFO - 🗃️ [split_and_save_data] nb_rows=7, nb_invalid=0 for file=/opt/airflow/raw-data/chunk_668.csv
+[2025-11-27T20:09:29.525+0000] {logging_mixin.py:188} INFO - ✅ [split_and_save_data] All rows valid → saved to /opt/airflow/good-data/chunk_668.csv
+[2025-11-27T20:09:29.525+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-27T20:09:29.526+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T20:09:29.529+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=ingest_data_dag, task_id=split_and_save_data, run_id=scheduled__2025-11-27T20:08:00+00:00, execution_date=20251127T200800, start_date=20251127T200929, end_date=20251127T200929
+[2025-11-27T20:09:29.583+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-27T20:09:29.638+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T20:09:29.639+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

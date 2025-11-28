@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-1941-HOSAM,Male,0,Yes,Yes,1.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.1,No
-9110-HSGTV,Female,0,No,No,69.0,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),82.45,No
-0704-VCUMB,Female,0,Yes,No,61.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),20.25,No
-6171-ZTVYB,Male,0,Yes,No,43.0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),66.25,No
-8053-WWDRO,Female,0,Yes,No,6.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),19.5,Yes
-9564-KCLHR,Male,0,No,No,1.0,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,51.25,Yes
-1935-IMVBB,Male,0,Yes,No,56.0,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,89.7,No
