@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-2661-GKBTK,Male,0,Yes,Yes,60.0,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),76.95,No
-0458-HEUZG,Female,0,No,No,13.0,No,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,No,Mailed check,35.4,No
-7268-WNTCP,Male,0,Yes,Yes,62.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.45,No
-0824-VWDPO,Female,0,No,No,45.0,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),96.75,No
-8409-WQJUX,Female,0,No,No,25.0,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,54.2,No
-2578-JQPHZ,Male,0,No,No,44.0,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),100.1,No
-3278-FSIXX,Female,0,No,No,2.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.25,No

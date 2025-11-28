@@ -1,0 +1,30 @@
+[2025-11-12T09:57:49.211+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-12T09:57:49.225+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.make_predictions manual__2025-11-12T09:57:43.808766+00:00 [queued]>
+[2025-11-12T09:57:49.228+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.make_predictions manual__2025-11-12T09:57:43.808766+00:00 [queued]>
+[2025-11-12T09:57:49.228+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-12T09:57:49.239+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): make_predictions> on 2025-11-12 09:57:43.808766+00:00
+[2025-11-12T09:57:49.245+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'make_predictions', 'manual__2025-11-12T09:57:43.808766+00:00', '--job-id', '92', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/tmp/tmpi1w74u1n']
+[2025-11-12T09:57:49.247+0000] {standard_task_runner.py:91} INFO - Job 92: Subtask make_predictions
+[2025-11-12T09:57:49.248+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=44) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-11-12T09:57:49.249+0000] {standard_task_runner.py:63} INFO - Started process 53 to run task
+[2025-11-12T09:57:49.272+0000] {task_command.py:426} INFO - Running <TaskInstance: prediction_dag.make_predictions manual__2025-11-12T09:57:43.808766+00:00 [running]> on host 8b181cc14653
+[2025-11-12T09:57:49.312+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='make_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-11-12T09:57:43.808766+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-11-12T09:57:43.808766+00:00'
+[2025-11-12T09:57:49.313+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-12T09:57:49.326+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_638.csv
+[2025-11-12T09:57:49.522+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_638.csv
+[2025-11-12T09:57:49.523+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_937.csv
+[2025-11-12T09:57:49.566+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_937.csv
+[2025-11-12T09:57:49.566+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_463.csv
+[2025-11-12T09:57:49.625+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_463.csv
+[2025-11-12T09:57:49.625+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_500.csv
+[2025-11-12T09:57:49.671+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_500.csv
+[2025-11-12T09:57:49.672+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_36.csv
+[2025-11-12T09:57:49.712+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_36.csv
+[2025-11-12T09:57:49.712+0000] {logging_mixin.py:188} INFO - 📂 Processing file: /opt/airflow/good-data/chunk_742.csv
+[2025-11-12T09:57:49.755+0000] {logging_mixin.py:188} INFO - ✅ Saved predictions to /opt/airflow/predictions/pred_chunk_742.csv
+[2025-11-12T09:57:49.755+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-12T09:57:49.755+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-12T09:57:49.759+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=prediction_dag, task_id=make_predictions, run_id=manual__2025-11-12T09:57:43.808766+00:00, execution_date=20251112T095743, start_date=20251112T095749, end_date=20251112T095749
+[2025-11-12T09:57:49.800+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-12T09:57:49.809+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-12T09:57:49.809+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

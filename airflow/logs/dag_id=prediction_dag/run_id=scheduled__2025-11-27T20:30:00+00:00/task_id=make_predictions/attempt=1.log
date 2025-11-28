@@ -1,0 +1,18 @@
+[2025-11-27T20:47:00.699+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T20:47:00.733+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.make_predictions scheduled__2025-11-27T20:30:00+00:00 [queued]>
+[2025-11-27T20:47:00.737+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.make_predictions scheduled__2025-11-27T20:30:00+00:00 [queued]>
+[2025-11-27T20:47:00.737+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T20:47:00.745+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): make_predictions> on 2025-11-27 20:30:00+00:00
+[2025-11-27T20:47:00.750+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'make_predictions', 'scheduled__2025-11-27T20:30:00+00:00', '--job-id', '2130', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/tmp/tmpketpi5nh']
+[2025-11-27T20:47:00.752+0000] {standard_task_runner.py:91} INFO - Job 2130: Subtask make_predictions
+[2025-11-27T20:47:00.754+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=7958) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-11-27T20:47:00.755+0000] {standard_task_runner.py:63} INFO - Started process 7967 to run task
+[2025-11-27T20:47:00.777+0000] {task_command.py:426} INFO - Running <TaskInstance: prediction_dag.make_predictions scheduled__2025-11-27T20:30:00+00:00 [running]> on host c76b7a4b7ca3
+[2025-11-27T20:47:00.822+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='make_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T20:30:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-27T20:30:00+00:00'
+[2025-11-27T20:47:00.823+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T20:47:00.949+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-27T20:47:00.949+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T20:47:00.953+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=prediction_dag, task_id=make_predictions, run_id=scheduled__2025-11-27T20:30:00+00:00, execution_date=20251127T203000, start_date=20251127T204700, end_date=20251127T204700
+[2025-11-27T20:47:00.978+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-27T20:47:00.986+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T20:47:00.987+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "http://dsp_api:8000"
 
 st.set_page_config(page_title="Telco Churn Prediction", layout="wide")
 st.title("Telco Customer Churn Prediction")

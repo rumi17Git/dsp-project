@@ -1,0 +1,22 @@
+[2025-11-27T22:31:56.399+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T22:31:56.450+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.save_statistics scheduled__2025-11-27T22:23:00+00:00 [queued]>
+[2025-11-27T22:31:56.462+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.save_statistics scheduled__2025-11-27T22:23:00+00:00 [queued]>
+[2025-11-27T22:31:56.462+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T22:31:56.479+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): save_statistics> on 2025-11-27 22:23:00+00:00
+[2025-11-27T22:31:56.504+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=169) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-11-27T22:31:56.505+0000] {standard_task_runner.py:63} INFO - Started process 186 to run task
+[2025-11-27T22:31:56.506+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'save_statistics', 'scheduled__2025-11-27T22:23:00+00:00', '--job-id', '2694', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmprta4ux38']
+[2025-11-27T22:31:56.506+0000] {standard_task_runner.py:91} INFO - Job 2694: Subtask save_statistics
+[2025-11-27T22:31:56.617+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.save_statistics scheduled__2025-11-27T22:23:00+00:00 [running]> on host 1e5250160f66
+[2025-11-27T22:31:57.328+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='save_statistics' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T22:23:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-27T22:23:00+00:00'
+[2025-11-27T22:31:57.330+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T22:31:57.379+0000] {logging_mixin.py:188} INFO - 📝 [save_statistics] INGESTION STATS: {'file_path': '/opt/airflow/raw-data/chunk_569.csv', 'nb_rows': 7, 'nb_valid_rows': 7, 'nb_invalid_rows': 0, 'error_counts': {'missing_values': 0}, 'invalid_ratio': 0.0, 'pandas_criticality': 'low', 'ge_success': True, 'ge_success_ratio': 1.0, 'ge_criticality': 'LOW', 'ge_report_url': '/opt/airflow/logs/ge_reports/ge_report_chunk_569_20251127T223139Z.html', 'criticality': 'low'}
+[2025-11-27T22:31:57.520+0000] {logging_mixin.py:188} INFO - ✅ [save_statistics] Row inserted into ingestion_stats.
+[2025-11-27T22:31:57.521+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-27T22:31:57.521+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T22:31:57.526+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=ingest_data_dag, task_id=save_statistics, run_id=scheduled__2025-11-27T22:23:00+00:00, execution_date=20251127T222300, start_date=20251127T223156, end_date=20251127T223157
+[2025-11-27T22:31:57.592+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-27T22:31:57.608+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T22:31:57.611+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

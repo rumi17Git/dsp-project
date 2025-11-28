@@ -1,0 +1,28 @@
+[2025-11-27T22:34:22.010+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T22:34:22.050+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.send_alerts scheduled__2025-11-27T22:32:00+00:00 [queued]>
+[2025-11-27T22:34:22.060+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.send_alerts scheduled__2025-11-27T22:32:00+00:00 [queued]>
+[2025-11-27T22:34:22.060+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T22:34:22.073+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): send_alerts> on 2025-11-27 22:32:00+00:00
+[2025-11-27T22:34:22.100+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=571) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-11-27T22:34:22.100+0000] {standard_task_runner.py:63} INFO - Started process 588 to run task
+[2025-11-27T22:34:22.102+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'send_alerts', 'scheduled__2025-11-27T22:32:00+00:00', '--job-id', '2714', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmpaz882isu']
+[2025-11-27T22:34:22.103+0000] {standard_task_runner.py:91} INFO - Job 2714: Subtask send_alerts
+[2025-11-27T22:34:22.144+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.send_alerts scheduled__2025-11-27T22:32:00+00:00 [running]> on host 1e5250160f66
+[2025-11-27T22:34:22.194+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='send_alerts' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T22:32:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-27T22:32:00+00:00'
+[2025-11-27T22:34:22.195+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T22:34:22.208+0000] {warnings.py:110} WARNING - /opt/airflow/dags/ingest_data_dag.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+
+[2025-11-27T22:34:22.208+0000] {warnings.py:110} WARNING - /opt/airflow/dags/ingest_data_dag.py:258: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  <p>Generated at: {datetime.utcnow().isoformat()} UTC</p>
+
+[2025-11-27T22:34:22.214+0000] {logging_mixin.py:188} INFO - 📣 [send_alerts] ALERT | File: /opt/airflow/raw-data/chunk_295.csv | Criticality: low | GE success ratio: 1.00 | Report path: /opt/airflow/reports/ge_report_chunk_295_20251127_223422.html
+[2025-11-27T22:34:22.214+0000] {logging_mixin.py:188} INFO - 📄 [send_alerts] HTML report generated at: /opt/airflow/reports/ge_report_chunk_295_20251127_223422.html
+[2025-11-27T22:34:22.214+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-27T22:34:22.214+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T22:34:22.217+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=ingest_data_dag, task_id=send_alerts, run_id=scheduled__2025-11-27T22:32:00+00:00, execution_date=20251127T223200, start_date=20251127T223422, end_date=20251127T223422
+[2025-11-27T22:34:22.242+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-27T22:34:22.250+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T22:34:22.250+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

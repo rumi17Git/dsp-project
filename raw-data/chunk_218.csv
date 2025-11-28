@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-0799-DDIHE,Female,0,Yes,Yes,15.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46.3,No
-3070-FNFZQ,Female,0,Yes,Yes,23.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),20.4,No
-2812-SFXMJ,Male,0,No,Yes,1.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.05,No
-7675-OZCZG,Female,1,No,No,3.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.0,Yes
-5014-WUQMG,Male,0,Yes,Yes,47.0,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,96.1,No
-5312-TSZVC,Female,0,No,Yes,15.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,19.65,No
-2003-CKLOR,Male,0,No,No,66.0,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,99.5,Yes

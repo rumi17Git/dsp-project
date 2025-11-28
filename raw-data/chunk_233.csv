@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-2808-CHTDM,Female,0,Yes,Yes,23.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.1,No
-6311-UEUME,Female,0,No,No,29.0,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,78.9,Yes
-0793-TWELN,Female,0,No,No,4.0,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.15,No
-3283-WCWXT,Male,0,Yes,Yes,6.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,25.4,No
-1060-ENTOF,Female,1,Yes,No,67.0,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),105.4,No
-0999-QXNSA,Male,1,No,Yes,7.0,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.75,No
-5451-MHQOF,Male,0,Yes,Yes,56.0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,24.45,No

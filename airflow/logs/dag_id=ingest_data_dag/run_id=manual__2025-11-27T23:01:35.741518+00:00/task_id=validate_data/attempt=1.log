@@ -1,0 +1,27 @@
+[2025-11-27T23:01:58.437+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T23:01:58.466+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.validate_data manual__2025-11-27T23:01:35.741518+00:00 [queued]>
+[2025-11-27T23:01:58.473+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.validate_data manual__2025-11-27T23:01:35.741518+00:00 [queued]>
+[2025-11-27T23:01:58.473+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T23:01:58.485+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): validate_data> on 2025-11-27 23:01:35.741518+00:00
+[2025-11-27T23:01:58.493+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=247) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-11-27T23:01:58.494+0000] {standard_task_runner.py:63} INFO - Started process 264 to run task
+[2025-11-27T23:01:58.495+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'validate_data', 'manual__2025-11-27T23:01:35.741518+00:00', '--job-id', '2729', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmpemxdfq0_']
+[2025-11-27T23:01:58.496+0000] {standard_task_runner.py:91} INFO - Job 2729: Subtask validate_data
+[2025-11-27T23:01:58.527+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.validate_data manual__2025-11-27T23:01:35.741518+00:00 [running]> on host 1e5250160f66
+[2025-11-27T23:01:58.582+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='validate_data' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T23:01:35.741518+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-11-27T23:01:35.741518+00:00'
+[2025-11-27T23:01:58.585+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T23:01:58.607+0000] {logging_mixin.py:188} INFO - 🚀 [validate_data] Starting validation for: /opt/airflow/raw-data/chunk_281.csv
+[2025-11-27T23:01:58.621+0000] {logging_mixin.py:188} INFO - 📊 [validate_data] rows=7, invalid=0, invalid_ratio=0.000, pandas_criticality=low
+[2025-11-27T23:01:58.622+0000] {logging_mixin.py:188} INFO - 🔁 [validate_data] Running run_ge_validation()...
+[2025-11-27T23:01:58.632+0000] {logging_mixin.py:188} INFO - 🔍 [GE DEBUG] GE result: {'success': True, 'total_expectations': 7, 'successful_expectations': 7, 'success_ratio': 1.0, 'criticality': 'LOW', 'report_url': '/opt/airflow/logs/ge_reports/ge_report_chunk_281_20251127T230158Z.html', 'validated_file': '/opt/airflow/raw-data/chunk_281.csv'}
+[2025-11-27T23:01:58.632+0000] {logging_mixin.py:188} INFO - ✅ [validate_data] Combined criticality -> pandas=low, GE=low, final=low
+[2025-11-27T23:01:58.633+0000] {logging_mixin.py:188} INFO - 📦 [validate_data] validation_result: {'file_path': '/opt/airflow/raw-data/chunk_281.csv', 'nb_rows': 7, 'nb_valid_rows': 7, 'nb_invalid_rows': 0, 'error_counts': {'missing_values': 0}, 'invalid_ratio': 0.0, 'pandas_criticality': 'low', 'ge_success': True, 'ge_success_ratio': 1.0, 'ge_criticality': 'LOW', 'ge_report_url': '/opt/airflow/logs/ge_reports/ge_report_chunk_281_20251127T230158Z.html', 'criticality': 'low'}
+[2025-11-27T23:01:58.640+0000] {logging_mixin.py:188} INFO - 📨 [validate_data] XCom push done
+[2025-11-27T23:01:58.641+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-27T23:01:58.641+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T23:01:58.645+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=ingest_data_dag, task_id=validate_data, run_id=manual__2025-11-27T23:01:35.741518+00:00, execution_date=20251127T230135, start_date=20251127T230158, end_date=20251127T230158
+[2025-11-27T23:01:58.678+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-27T23:01:58.692+0000] {taskinstance.py:3498} INFO - 3 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T23:01:58.694+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,49 @@
+[2025-11-27T18:27:10.824+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-27T18:27:10.840+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.validate_data scheduled__2025-11-27T18:26:00+00:00 [queued]>
+[2025-11-27T18:27:10.844+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.validate_data scheduled__2025-11-27T18:26:00+00:00 [queued]>
+[2025-11-27T18:27:10.844+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-27T18:27:10.852+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): validate_data> on 2025-11-27 18:26:00+00:00
+[2025-11-27T18:27:10.856+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=283) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-11-27T18:27:10.857+0000] {standard_task_runner.py:63} INFO - Started process 300 to run task
+[2025-11-27T18:27:10.858+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'validate_data', 'scheduled__2025-11-27T18:26:00+00:00', '--job-id', '1603', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmpycaslcqo']
+[2025-11-27T18:27:10.858+0000] {standard_task_runner.py:91} INFO - Job 1603: Subtask validate_data
+[2025-11-27T18:27:10.888+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.validate_data scheduled__2025-11-27T18:26:00+00:00 [running]> on host c76b7a4b7ca3
+[2025-11-27T18:27:10.927+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='validate_data' AIRFLOW_CTX_EXECUTION_DATE='2025-11-27T18:26:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-11-27T18:26:00+00:00'
+[2025-11-27T18:27:10.928+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-27T18:27:10.963+0000] {file_data_context.py:222} INFO - FileDataContext loading fluent config
+[2025-11-27T18:27:10.964+0000] {config.py:187} INFO - Loading 'datasources' ->
+[]
+[2025-11-27T18:27:10.986+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-27T18:27:10.986+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/ingest_data_dag.py", line 82, in validate_data
+    ge_result = run_ge_validation(file_path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/ge_validation.py", line 135, in run_ge_validation
+    _ensure_expectation_suite(context, suite_name)
+  File "/opt/airflow/dags/ge_validation.py", line 34, in _ensure_expectation_suite
+    suite = gx.ExpectationSuite(name=suite_name)
+            ^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'great_expectations' has no attribute 'ExpectationSuite'. Did you mean: 'expectations'?
+[2025-11-27T18:27:10.990+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=ingest_data_dag, task_id=validate_data, run_id=scheduled__2025-11-27T18:26:00+00:00, execution_date=20251127T182600, start_date=20251127T182710, end_date=20251127T182710
+[2025-11-27T18:27:10.997+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 1603 for task validate_data (module 'great_expectations' has no attribute 'ExpectationSuite'; 300)
+[2025-11-27T18:27:11.040+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-11-27T18:27:11.049+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-27T18:27:11.054+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

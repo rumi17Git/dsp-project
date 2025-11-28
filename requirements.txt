@@ -9,6 +9,8 @@ joblib==1.5.2
 streamlit==1.50.0
 python-multipart==0.0.20
 psycopg2-binary==2.9.10
-apache-airflow==3.1.0
-numpy==2.33
-requests==2.32.5
+requests==2.32.3
+numpy==1.26.4
+great-expectations==0.18.21
+
+# apache-airflow==2.10.5

@@ -1,0 +1,60 @@
+
+    <html>
+      <head>
+        <title>Data Validation Report - chunk_233</title>
+        <style>
+          body { font-family: Arial, sans-serif; margin: 20px; }
+          h1 { color: #333; }
+          .criticality-high { color: #b00020; font-weight: bold; }
+          .criticality-medium { color: #ff9800; font-weight: bold; }
+          .criticality-low { color: #2e7d32; font-weight: bold; }
+          table { border-collapse: collapse; margin-top: 10px; }
+          th, td { border: 1px solid #ddd; padding: 8px; }
+          th { background-color: #f5f5f5; }
+          code { background: #f0f0f0; padding: 2px 4px; border-radius: 4px; }
+        </style>
+      </head>
+      <body>
+        <h1>Data Validation Report</h1>
+        <h2>File: /opt/airflow/raw-data/chunk_233.csv</h2>
+        <p>Generated at: 2025-11-27T22:33:21.983965 UTC</p>
+
+        <h3>Summary</h3>
+        <table>
+          <tr><th>Metric</th><th>Value</th></tr>
+          <tr><td>Total rows</td><td>7</td></tr>
+          <tr><td>Invalid rows</td><td>0</td></tr>
+          <tr><td>Invalid ratio</td><td>0.000</td></tr>
+          <tr><td>Pandas criticality</td><td>low</td></tr>
+          <tr><td>GE success</td><td>True</td></tr>
+          <tr><td>GE success ratio</td><td>1.000</td></tr>
+          <tr><td>GE criticality</td><td>LOW</td></tr>
+          <tr>
+            <td>Final criticality</td>
+            <td class="criticality-low">
+              low
+            </td>
+          </tr>
+        </table>
+
+        <h3>Error counts (Pandas)</h3>
+        <pre>{
+  "missing_values": 0
+}</pre>
+
+        <h3>Notes</h3>
+        <ul>
+          <li>
+            This report combines:
+            <ul>
+              <li>Row-level missing value checks (Pandas)</li>
+              <li>Great Expectations suite result (ge_success_ratio, ge_criticality)</li>
+            </ul>
+          </li>
+          <li>
+            If <code>ge_success_ratio &lt; 1</code>, some expectations failed.
+          </li>
+        </ul>
+      </body>
+    </html>
+    

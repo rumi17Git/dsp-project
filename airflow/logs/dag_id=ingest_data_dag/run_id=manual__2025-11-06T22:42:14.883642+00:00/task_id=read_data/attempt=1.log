@@ -1,0 +1,37 @@
+[2025-11-06T22:42:16.722+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-06T22:42:16.737+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ingest_data_dag.read_data manual__2025-11-06T22:42:14.883642+00:00 [queued]>
+[2025-11-06T22:42:16.740+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ingest_data_dag.read_data manual__2025-11-06T22:42:14.883642+00:00 [queued]>
+[2025-11-06T22:42:16.740+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-06T22:42:16.747+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): read_data> on 2025-11-06 22:42:14.883642+00:00
+[2025-11-06T22:42:16.750+0000] {standard_task_runner.py:63} INFO - Started process 63 to run task
+[2025-11-06T22:42:16.752+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data_dag', 'read_data', 'manual__2025-11-06T22:42:14.883642+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/ingest_data_dag.py', '--cfg-path', '/tmp/tmpqy__8bis']
+[2025-11-06T22:42:16.754+0000] {standard_task_runner.py:91} INFO - Job 5: Subtask read_data
+[2025-11-06T22:42:16.788+0000] {task_command.py:426} INFO - Running <TaskInstance: ingest_data_dag.read_data manual__2025-11-06T22:42:14.883642+00:00 [running]> on host c03c104d91e8
+[2025-11-06T22:42:16.819+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ingest_data_dag' AIRFLOW_CTX_TASK_ID='read_data' AIRFLOW_CTX_EXECUTION_DATE='2025-11-06T22:42:14.883642+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-11-06T22:42:14.883642+00:00'
+[2025-11-06T22:42:16.819+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-06T22:42:16.826+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-06T22:42:16.826+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 400, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/ingest_data_dag.py", line 20, in read_data
+    raise FileNotFoundError("No files in raw-data folder.")
+FileNotFoundError: No files in raw-data folder.
+[2025-11-06T22:42:16.831+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=ingest_data_dag, task_id=read_data, run_id=manual__2025-11-06T22:42:14.883642+00:00, execution_date=20251106T224214, start_date=20251106T224216, end_date=20251106T224216
+[2025-11-06T22:42:16.837+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 5 for task read_data (No files in raw-data folder.; 63)
+[2025-11-06T22:42:16.852+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-11-06T22:42:16.861+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-06T22:42:16.864+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

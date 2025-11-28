@@ -1,0 +1,16 @@
+apiVersion: 1
+datasources:
+  - name: DSP Postgres
+    type: postgres
+    access: proxy
+    isDefault: true
+    editable: true
+    url: dsp_postgres:5432
+    user: postgres
+    secureJsonData:
+      password: test123
+    jsonData:
+      database: dsp_db
+      sslmode: "disable"
+      postgresVersion: 1500
+      timescaledb: false

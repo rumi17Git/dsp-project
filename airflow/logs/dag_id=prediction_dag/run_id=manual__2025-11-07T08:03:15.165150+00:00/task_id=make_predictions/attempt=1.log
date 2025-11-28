@@ -1,0 +1,19 @@
+[2025-11-07T08:03:20.220+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-11-07T08:03:20.233+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: prediction_dag.make_predictions manual__2025-11-07T08:03:15.165150+00:00 [queued]>
+[2025-11-07T08:03:20.236+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: prediction_dag.make_predictions manual__2025-11-07T08:03:15.165150+00:00 [queued]>
+[2025-11-07T08:03:20.237+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-11-07T08:03:20.246+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): make_predictions> on 2025-11-07 08:03:15.165150+00:00
+[2025-11-07T08:03:20.251+0000] {logging_mixin.py:188} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=154) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-11-07T08:03:20.251+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'prediction_dag', 'make_predictions', 'manual__2025-11-07T08:03:15.165150+00:00', '--job-id', '33', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/tmp/tmpijft0f5q']
+[2025-11-07T08:03:20.252+0000] {standard_task_runner.py:63} INFO - Started process 163 to run task
+[2025-11-07T08:03:20.252+0000] {standard_task_runner.py:91} INFO - Job 33: Subtask make_predictions
+[2025-11-07T08:03:20.275+0000] {task_command.py:426} INFO - Running <TaskInstance: prediction_dag.make_predictions manual__2025-11-07T08:03:15.165150+00:00 [running]> on host 40966ec23ad0
+[2025-11-07T08:03:20.312+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='prediction_dag' AIRFLOW_CTX_TASK_ID='make_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-11-07T08:03:15.165150+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-11-07T08:03:15.165150+00:00'
+[2025-11-07T08:03:20.313+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-11-07T08:03:20.331+0000] {logging_mixin.py:188} INFO - ❌ Failed to predict chunk_0.csv: Out of range float values are not JSON compliant: nan
+[2025-11-07T08:03:20.331+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-11-07T08:03:20.331+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-11-07T08:03:20.334+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=prediction_dag, task_id=make_predictions, run_id=manual__2025-11-07T08:03:15.165150+00:00, execution_date=20251107T080315, start_date=20251107T080320, end_date=20251107T080320
+[2025-11-07T08:03:20.350+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-11-07T08:03:20.357+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-11-07T08:03:20.357+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

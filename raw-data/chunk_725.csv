@@ -1,8 +1,0 @@
-customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,Churn
-7621-VPNET,Female,0,Yes,No,42.0,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),85.9,No
-6034-YMTOB,Female,0,No,No,5.0,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,75.65,No
-8563-IIOXK,Male,0,Yes,Yes,7.0,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,49.75,Yes
-4903-CNOZC,Male,0,No,No,29.0,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,One year,No,Credit card (automatic),70.9,No
-4353-HYOJD,Female,0,Yes,Yes,27.0,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,49.85,No
-8020-BWHYL,Female,1,No,No,15.0,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.3,Yes
-7267-FRMJW,Female,0,Yes,Yes,25.0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.1,No
