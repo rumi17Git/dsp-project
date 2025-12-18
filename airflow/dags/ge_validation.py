@@ -9,15 +9,6 @@ import great_expectations as gx
 
 
 def run_ge_validation(csv_path: str) -> dict:
-    """
-    Real Great Expectations helper.
-
-    - Reads the CSV into a pandas DataFrame
-    - Builds a GE Validator from the DataFrame
-    - Applies a few expectations (nulls, ranges, categories…)
-    - Computes a success ratio and criticality (LOW/MEDIUM/HIGH)
-    - Writes a small HTML report and returns its path
-    """
 
     # ---- Load data ---------------------------------------------------------
     df = pd.read_csv(csv_path)
